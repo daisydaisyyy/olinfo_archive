@@ -1,0 +1,56 @@
+Il nuovo sistema di gara delle Selezioni Territoriali funziona alla grande, ma Mojito non è così convinto... sembra infatti che la nota mascotte delle Olimpiadi abbia fiutato un virus nascosto fra i file inviati da un partecipante!
+
+Conosciamo la lunghezza del virus e sappiamo che si ripete uguale nei quattro file che abbiamo ricevuto, ma non sappiamo dove. Aiutaci ad individuare il virus!
+
+Dettagli
+
+I quattro file F1,F2,F3,F4F1​,F2​,F3​,F4​ sono dati in input, rappresentati come quattro stringhe di caratteri di lunghezza rispettivamente N1,N2,N3,N4.
+
+Il virus è una stringa di caratteri V di lunghezza M. La lunghezza M è data in input, ma non si conosce il contenuto della stringa V del virus.
+
+Sappiamo con certezza che il virus V appare all'interno di tutti e quattro i file, come sottostringa di caratteri consecutivi. Sappiamo inoltre che NON ci sono altre sottostringhe consecutive di lunghezza M che si ripetono uguali in tutti e quattro i file.
+
+Le posizioni dei caratteri nelle stringhe sono numerati a partire da 0. Per ciascuno dei quattro file Fi​, trova la posizione in cui è inserito il virus, ovvero la posizione dove appare il primo carattere del virus V all'interno della stringa Fi​.
+Assunzioni
+
+    T=12, sono presenti 12 casi di input.
+    2≤N1,N2,N3,N4≤100, i file non sono più lunghi di 100 caratteri.
+    2≤M≤20, il virus non è più lungo di 20 caratteri.
+    M≤min⁡(N1,N2,N3,N4), il virus non è più lungo del file più corto.
+    Tutti i caratteri dei file sono lettere minuscole dell'alfabeto inglese (dalla a alla z), NON sono presenti spazi.
+    È garantito che il virus esiste ed è unico.
+
+Dati di input
+
+La prima riga del file di input contiene un intero T, il numero di casi di test. Seguono T casi di test, numerati da 1 a T. Ogni caso di test è preceduto da una riga vuota.
+
+In ciascun caso di test:
+
+    La prima riga contiene quattro interi, N1​, N2​, N3​ e N4​, separati da uno spazio, che corrispondono alla lunghezza di ciascuno dei quattro file.
+    La seconda riga contiene un solo intero M, che corrisponde alla lunghezza del virus.
+    Le successive 4 righe contengono rispettivamente le quattro stringhe F1​, F2​, F3​ e F4​.
+
+Dati di output
+
+Il file di output deve contenere la risposta ai casi di test che sei riuscito a risolvere. Per ogni caso di test che hai risolto, il file di output deve contenere una riga con la dicitura
+
+Case #t: p1 p2 p3 p4
+
+dove t è il numero del caso di test (a partire da 1) e i valori p1, p2, p3, p4 sono le posizioni in cui si trova il virus in ciascuno dei quattro file. Con posizione si intende l'indice del primo carattere del virus, il primo carattere del file ha indice zero.
+
+
+2
+
+8 12 10 7
+4
+ananasso
+associazione
+tassonomia
+massone
+
+6 9 11 10
+3
+simone
+ponessimo
+milionesimo
+cassonetto
