@@ -15,45 +15,49 @@ a = superfast
 b = hyperfast -> solo se il giorno prima non prendo nessun treno
 */
 
-vector<int> a;
-vector<int> b;
 
-// int dp[MAXN + 1][MAXT + 1]; // giorno, tempo
-std::vector<std::vector<int>> dp(MAXN + 1, std::vector<int>(MAXT + 1, -1));
 
-int tempo_massimo(int n, int t) {
-    if(n < 0) return 0; // base case
+ // giorno, scelta 0, 1, 2
 
-    if(dp[n][t] == -1) 
-        dp[n][t] = max(tempo_massimo(n-2, t) + b[n], tempo_massimo(n-1, t) + a[n]);
-    
-    cout << "n: " << n << "\tt: " << t << "\tdp: " << dp[n][t] << endl;
-    
-    return dp[n][t];
-    
-
+int solve(const int A[], const int B[], const int &N, const int &day, const bool &taken, vector<vector<int>> &dp){
+    if(day == N){
+        return 0;
+    }
+    if(dp[day][taken] == -1){
+        int a=0, b=0, c=0;
+        a = solve(A, B, N, day+1, true, dp) + A[day];
+        c = solve(A, B, N, day+1, false, dp);
+        if(!taken){
+            b = solve(A, B, N, day+1, true, dp) + B[day];
+        }
+        dp[day][taken] = max(max(a,b),c);
+    }
+    return dp[day][taken];
 }
+
+int tempo_massimo(int N, int a[], int b[])
+{
+    vector<vector<int>> dp(N, vector<int>(N, -1));
+    return solve(a, b, N, 0, 0, dp);   
+}
+
 
 int main()
 {
     int n;
     FILE *in = fopen("input.txt", "r"), *out = stdout;
-    cout << "a";
+    // cout << "a";
     assert(fscanf(in, "%d", &n) == 1);
+    int a[n];
+    int b[n];
 
-    a.resize(n);
-    b.resize(n);
-    cout << "what";
-   
-    // // giorno 0: tempo max 
-    for(int i = 1; i < MAXT; i++) dp[0][i] = MAXT;
-
+    
     for(int i=0; i<n; i++){
       assert(fscanf(in, "%d", &a[i]) == 1);
       assert(fscanf(in, "%d", &b[i]) == 1);
     }
 
-    int answ = tempo_massimo(n, 0);
+    int answ = tempo_massimo(n, a, b);
     fprintf(out, "%d\n", answ);
 
     fclose(in);

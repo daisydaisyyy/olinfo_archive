@@ -1,64 +1,40 @@
-// NOTE: it is recommended to use this even if you don't understand the following code.
-
 #include <fstream>
 #include <iostream>
 #include <string>
-#include <vector>
-#include<algorithm>
-#include<bits/stdc++.h> 
+#include <unordered_set> 
 using namespace std;
-int N;
-// vector<string> U;
-string S;
-string f(const unordered_set<string>& U) {
 
-   if (U.find(S) == U.end()) {
-        // If the desired username is not taken
+string f(const unordered_set<string>& U, const string& S) {
+    if (U.find(S) == U.end()) {
         return S;
     }
 
-    // If the desired username is taken, try appending numbers
     for (int i = 1; ; ++i) {
         string tryUsername = S + to_string(i);
         if (U.find(tryUsername) == U.end()) {
-            // If the modified username is not taken
             return tryUsername;
         }
     }
- 
-  
 }
 
-
-using namespace std;
-
 int main() {
-    // uncomment the two following lines if you want to read/write from files
-    ifstream cin("input.txt");
+    // ifstream cin("input.txt");
     // ofstream cout("output.txt");
 
-    unordered_set<string> U;
-
+    string S;
     cin >> S;
     
     int N;
     cin >> N;
-    // U.resize(N);
     
-    
+    unordered_set<string> U;
     string a;
-    for (int i = 0; i < N; ++i)
-        cin >> a; 
+    for (int i = 0; i < N; ++i) {
+        cin >> a;
         U.insert(a);
-
-
+    }
     
-    string T = f(U);
-    
-    
-    // INSERT YOUR CODE HERE
-    
-    
+    string T = f(U, S);
     cout << T << endl;
 
     return 0;
