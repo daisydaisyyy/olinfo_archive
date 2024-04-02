@@ -1,0 +1,1145 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+A	ois/ois19/round1/SOLVES/exhibitions.cpp	/^int A[MAXN], P[MAXN], G[MAXN], E[MAXN], R[MAXN];$/;"	v
+A	ois/ois19/round1/exhibitions/exhibitions.cpp	/^int A[MAXN], P[MAXN], G[MAXN], E[MAXN], R[MAXN];$/;"	v
+A	ois/ois19/round2/chips/chips.cpp	/^int A, C, r, g, b;$/;"	v
+A	ois/ois19/round2/grasshopper/grasshopper.cpp	/^int A[MAXM], B[MAXM];$/;"	v
+A	ois/ois19/round3/fairgame/fairgame.cpp	/^deque<pair<int,long long>> A, B; \/\/ index, money$/;"	v
+A	ois/ois20/round1/SOLVES/fibonaccibug.py	/^    A = [None] * N$/;"	v
+A	ois/ois20/round1/SOLVES/teleport2.py	/^    A = (Xa, Ya)$/;"	v
+A	ois/ois20/round2/ois11_round2_solutions/evacuation.cpp	/^int E[MAXN], A[MAXN];$/;"	v
+A	ois/ois20/round2/ois11_round2_solutions/evacuation.py	/^A = list(map(int, input().strip().split())) # arrogance$/;"	v
+A	ois/ois20/round2/ois11_round2_solutions/ip.cpp	/^int A[4], B[4];$/;"	v
+A	ois/ois20/round2/ois11_round2_solutions/ip.py	/^A = list(map(int, input().split(".")))$/;"	v
+A	ois/ois20/round3/ois11_round3_solutions.tar(1)/fairgame.py	/^            A = A[:-1]$/;"	v
+A	ois/ois20/round3/ois11_round3_solutions.tar(1)/fairgame.py	/^        A = A[1:]$/;"	v
+A	ois/ois20/round3/ois11_round3_solutions.tar(1)/fairgame.py	/^A = []$/;"	v
+A	ois/ois20/round3/ois11_round3_solutions.tar(1)/scmax.cpp	/^int A[MAXN], T[MAXN+1];$/;"	v
+A	ois/ois20/round3/ois11_round3_solutions.tar(1)/scmax.py	/^A = list(map(int, input().strip().split()))$/;"	v
+A	ois/ois20/round4/ois11_round4_solutions.tar(1)/forum.cpp	/^int A[MAXD+MAXP];$/;"	v
+A	ois/ois20/round4/ois11_round4_solutions.tar(1)/forum.py	/^A = list(map(int, input().strip().split()))$/;"	v
+A	ois/ois23/round1/sumtree/main.cpp	/^vector<int> A;$/;"	v
+A	ois/ois24/round3/peaks/peaks.cpp	/^vector<long long> A;$/;"	v
+A	ois/ois24/round3/strangeoperation/strangeoperation.cpp	/^vector<int> A;$/;"	v
+A	training/dp/waterslide/waterslide.cpp	/^int A[MAXM];$/;"	v
+A	training/dp/waterslide/waterslide2.cpp	/^int A[MAXM];$/;"	v
+A	training/greedy/disks2/disks2.py	/^A = [0] * N$/;"	v
+AddEdge	ois/ois20/round1/SOLVES/sprei.cpp	/^    void AddEdge(int a, int b) {$/;"	f	struct:Cuplaj
+B	algobadge/greedy/quadri/grader.cpp	/^static int B;$/;"	v	file:
+B	algobadge/greedy/quadri/quadri_final.cpp	/^static int B;$/;"	v	file:
+B	ois/ois19/round1/SOLVES/christmas.cpp	/^int N, B;$/;"	v
+B	ois/ois19/round1/SOLVES/poker.cpp	/^    int D, S, E, B, P, i;$/;"	m	struct:tournament	file:
+B	ois/ois19/round1/SOLVES/poker.cpp	/^int D[MAXN], S[MAXN], E[MAXN], B[MAXN], P[MAXN];$/;"	v
+B	ois/ois19/round1/christmas/christmas.cpp	/^int N, B, i;$/;"	v
+B	ois/ois19/round1/poker/poker.cpp	/^    int D, S, E, B, P, i;$/;"	m	struct:tournament	file:
+B	ois/ois19/round1/poker/poker.cpp	/^int D[MAXN], S[MAXN], E[MAXN], B[MAXN], P[MAXN];$/;"	v
+B	ois/ois19/round2/grasshopper/grasshopper.cpp	/^int A[MAXM], B[MAXM];$/;"	v
+B	ois/ois19/round3/fairgame/fairgame.cpp	/^deque<pair<int,long long>> A, B; \/\/ index, money$/;"	v
+B	ois/ois20/round1/SOLVES/fibonaccibug.py	/^    B = [None] * N$/;"	v
+B	ois/ois20/round1/SOLVES/sprei.cpp	/^int N, M, B;$/;"	v
+B	ois/ois20/round1/SOLVES/teleport2.py	/^    B = (Xb, Yb)$/;"	v
+B	ois/ois20/round2/ois11_round2_solutions/ip.cpp	/^int A[4], B[4];$/;"	v
+B	ois/ois20/round2/ois11_round2_solutions/ip.py	/^B = list(map(int, input().split(".")))$/;"	v
+B	ois/ois20/round3/ois11_round3_solutions.tar(1)/fairgame.py	/^            B = B[:-1]$/;"	v
+B	ois/ois20/round3/ois11_round3_solutions.tar(1)/fairgame.py	/^        B = B[1:]$/;"	v
+B	ois/ois20/round3/ois11_round3_solutions.tar(1)/fairgame.py	/^B = []$/;"	v
+B	ois/ois23/round1/sumtree/main.cpp	/^vector<int> B;$/;"	v
+B	ois/ois24/round3/peaks/peaks.cpp	/^vector<long long> B;$/;"	v
+B	ois/ois24/round3/strangeoperation/strangeoperation.cpp	/^vector<int> B;$/;"	v
+B	training/dp/waterslide/waterslide.cpp	/^int B[MAXM];$/;"	v
+B	training/dp/waterslide/waterslide2.cpp	/^int B[MAXM];$/;"	v
+B	training/greedy/disks2/disks2.py	/^B = [0] * N$/;"	v
+BFS	!TEORIA OLINFO/grafi/bfs.cpp	/^void BFS(const std::unordered_map<int, std::vector<int>>& adj_list, int source)$/;"	f
+C	algobadge/grafi/islands/islands - Copia.cpp	/^int R, C, i, j;$/;"	v
+C	algobadge/grafi/islands/islands.cpp	/^int R, C, i, j;$/;"	v
+C	ois/ois19/round2/SOLVES/carpets.cpp	/^int R, C, K;$/;"	v
+C	ois/ois19/round2/carpets/carpets.cpp	/^int R, C, K;$/;"	v
+C	ois/ois19/round2/chips/chips.cpp	/^int A, C, r, g, b;$/;"	v
+C	ois/ois20/round1/SOLVES/fibonaccibug.py	/^    C = len(fibb)$/;"	v
+C	ois/ois20/round1/SOLVES/teleport2.py	/^    C = (Xc, Yc)$/;"	v
+C	ois/ois20/round2/ois11_round2_solutions/examroom.cpp	/^long long R, C, K;$/;"	v
+C	ois/ois20/round2/ois11_round2_solutions/machine.cpp	/^int C, D, Y, i;$/;"	v
+C	ois/ois20/round3/ois11_round3_solutions.tar(1)/halloween.py	/^C = list(map(int, input().strip().split()))$/;"	v
+C	ois/ois20/round3/ois11_round3_solutions.tar(1)/ladder.py	/^C = list(map(int, input().strip().split()))$/;"	v
+C	ois/ois20/round4/ois11_round4_solutions.tar(1)/confetti.cpp	/^long long C[MAXN];$/;"	v
+C	ois/ois20/round4/ois11_round4_solutions.tar(1)/confetti.py	/^C = list(map(int, input().strip().split()))$/;"	v
+C	ois/ois20/round4/ois11_round4_solutions.tar(1)/gameshow.cpp	/^int P[MAXN], C[MAXN];$/;"	v
+C	ois/ois20/round4/ois11_round4_solutions.tar(1)/gameshow.py	/^C = list(map(int, input().strip().split()))$/;"	v
+C	ois/ois20/round4/ois11_round4_solutions.tar(1)/islands.cpp	/^int R, C, i, j;$/;"	v
+C	ois/ois23/round2/scoazze.cpp	/^vector<int> C, T, Q;$/;"	v
+C	training/greedy/halloween/halloween.py	/^C = list(map(int, input().strip().split()))$/;"	v
+C	training/math/confetti/confetti.py	/^C = list(map(int, input().strip().split()))$/;"	v
+C_0	training/grafi/picarats/picarats.cpp	/^int N, M, C_0, a, b, c, i;$/;"	v
+CalcH	ois/ois20/round1/SOLVES/sprei.cpp	/^void CalcH()$/;"	f
+Cuplaj	ois/ois20/round1/SOLVES/sprei.cpp	/^    Cuplaj(int n = 0) : n(n), cuplat(n, -1), viz(n), adia(n) { }$/;"	f	struct:Cuplaj
+Cuplaj	ois/ois20/round1/SOLVES/sprei.cpp	/^struct Cuplaj {$/;"	s	file:
+D	ois/ois19/round1/SOLVES/malls.cpp	/^int D[MAXN];$/;"	v
+D	ois/ois19/round1/SOLVES/poker.cpp	/^    int D, S, E, B, P, i;$/;"	m	struct:tournament	file:
+D	ois/ois19/round1/SOLVES/poker.cpp	/^int D[MAXN], S[MAXN], E[MAXN], B[MAXN], P[MAXN];$/;"	v
+D	ois/ois19/round1/malls/malls.cpp	/^int D[MAXN];$/;"	v
+D	ois/ois19/round1/poker/poker.cpp	/^    int D, S, E, B, P, i;$/;"	m	struct:tournament	file:
+D	ois/ois19/round1/poker/poker.cpp	/^int D[MAXN], S[MAXN], E[MAXN], B[MAXN], P[MAXN];$/;"	v
+D	ois/ois20/round2/ois11_round2_solutions/antennas.cpp	/^int N, D;$/;"	v
+D	ois/ois20/round2/ois11_round2_solutions/machine.cpp	/^int C, D, Y, i;$/;"	v
+D	ois/ois20/round3/ois11_round3_solutions.tar(1)/pulse.py	/^D = [[[r+1 for r in range(MAXR)] for y in range(N)] for x in range(N)]$/;"	v
+D	ois/ois20/round4/ois11_round4_solutions.tar(1)/forum.cpp	/^int D, P, E, i;$/;"	v
+D	training/others/interrogazioni/interrogazioni.cpp	/^int D[MAXN];$/;"	v
+DP	ois/ois20/round1/SOLVES/fibonaccibug.py	/^    DP = [0] * (K+1)$/;"	v
+DP	ois/ois20/round2/ois11_round2_solutions/machine.py	/^DP = [0 for _ in range(D+1)]$/;"	v
+Ds	ois/ois20/round2/ois11_round2_solutions/machine.py	/^Ds = []$/;"	v
+E	ois/ois19/round1/SOLVES/exhibitions.cpp	/^int A[MAXN], P[MAXN], G[MAXN], E[MAXN], R[MAXN];$/;"	v
+E	ois/ois19/round1/SOLVES/poker.cpp	/^    int D, S, E, B, P, i;$/;"	m	struct:tournament	file:
+E	ois/ois19/round1/SOLVES/poker.cpp	/^int D[MAXN], S[MAXN], E[MAXN], B[MAXN], P[MAXN];$/;"	v
+E	ois/ois19/round1/exhibitions/exhibitions.cpp	/^int A[MAXN], P[MAXN], G[MAXN], E[MAXN], R[MAXN];$/;"	v
+E	ois/ois19/round1/poker/poker.cpp	/^    int D, S, E, B, P, i;$/;"	m	struct:tournament	file:
+E	ois/ois19/round1/poker/poker.cpp	/^int D[MAXN], S[MAXN], E[MAXN], B[MAXN], P[MAXN];$/;"	v
+E	ois/ois19/round4/shopping/shopping.cpp	/^int N, E, i;$/;"	v
+E	ois/ois20/round2/ois11_round2_solutions/evacuation.cpp	/^int E[MAXN], A[MAXN];$/;"	v
+E	ois/ois20/round2/ois11_round2_solutions/evacuation.py	/^E = list(map(int, input().strip().split())) # evacuation directions$/;"	v
+E	ois/ois20/round4/ois11_round4_solutions.tar(1)/forum.cpp	/^int D, P, E, i;$/;"	v
+Emax	ois/ois19/round2/SOLVES/enigmath.cpp	/^int Emin, Emax;$/;"	v
+Emax	ois/ois19/round2/enigmath/enigmath.cpp	/^int Emin, Emax;$/;"	v
+Emin	ois/ois19/round2/SOLVES/enigmath.cpp	/^int Emin, Emax;$/;"	v
+Emin	ois/ois19/round2/enigmath/enigmath.cpp	/^int Emin, Emax;$/;"	v
+F	ois/ois19/round4/cats/cats.cpp	/^int M[MAXN], F[MAXN];$/;"	v
+F	ois/ois20/round3/ois11_round3_solutions.tar(1)/dessert.cpp	/^int M[MAXN], L[MAXN], *F[MAXN], deg[MAXN];$/;"	v
+F	ois/ois20/round3/ois11_round3_solutions.tar(1)/dessert.py	/^F = [None for _ in range(N)]$/;"	v
+F	ois/ois20/round4/ois11_round4_solutions.tar(1)/polygon.cpp	/^int F, i;$/;"	v
+F	ois/ois20/round4/ois11_round4_solutions.tar(1)/polygon.py	/^F = int(input().strip())$/;"	v
+G	ois/ois19/round1/SOLVES/exhibitions.cpp	/^int A[MAXN], P[MAXN], G[MAXN], E[MAXN], R[MAXN];$/;"	v
+G	ois/ois19/round1/exhibitions/exhibitions.cpp	/^int A[MAXN], P[MAXN], G[MAXN], E[MAXN], R[MAXN];$/;"	v
+GetMinimalVertexSpecialCover	ois/ois20/round1/SOLVES/sprei.cpp	/^    int GetMinimalVertexSpecialCover() {$/;"	f	struct:Cuplaj
+GetMutations	ois/ois20/round1/SOLVES/sprei.cpp	/^void GetMutations()$/;"	f
+Graph	algobadge/grafi/mincammino/mincammino.cpp	/^Graph::Graph(int N){$/;"	f	class:Graph
+Graph	algobadge/grafi/mincammino/mincammino.cpp	/^class Graph{$/;"	c	file:
+Graph	dijkstra.py	/^class Graph():$/;"	c
+H	ois/ois18/kitchen/kitchen.cpp	/^pair<int,int> H[MAXN];$/;"	v
+H	ois/ois19/round1/SOLVES/kitchen.cpp	/^pair<int,int> H[MAXN];$/;"	v
+H	ois/ois20/round4/ois11_round4_solutions.tar(1)/raid.cpp	/^int H[MAXN];$/;"	v
+H	ois/ois20/round4/ois11_round4_solutions.tar(1)/raid.py	/^H = list(map(int, input().strip().split())) + [0] # convenient for representing terrain$/;"	v
+H	training/dp/words/wordsearch.cpp	/^int H, W;$/;"	v
+H0	ois/ois20/round4/ois11_round4_solutions.tar(1)/time.cpp	/^int H0, M0, H1, M1;$/;"	v
+H1	ois/ois20/round4/ois11_round4_solutions.tar(1)/time.cpp	/^int H0, M0, H1, M1;$/;"	v
+ID	ois/ois20/round4/ois11_round4_solutions.tar(1)/forum.py	/^ID = [None] * E$/;"	v
+INF	ois/ois20/round2/ois11_round2_solutions/antennas.cpp	15;"	d	file:
+INF	ois/ois20/round2/ois11_round2_solutions/machine.cpp	/^const int INF = numeric_limits<int>::max();$/;"	v
+INF	ois/ois20/round3/ois11_round3_solutions.tar(1)/fairgame.cpp	/^const ll INF = 1'000'000'000'000'000'000L;$/;"	v
+K	algobadge/dp/nonna/solve_rec.cpp	/^int N, K, i;$/;"	v
+K	ois/ois19/round1/malls/malls.cpp	/^int N, K, i;$/;"	v
+K	ois/ois19/round1/muffin/muffin.cpp	/^int N, K, i;$/;"	v
+K	ois/ois19/round2/SOLVES/carpets.cpp	/^int R, C, K;$/;"	v
+K	ois/ois19/round2/carpets/carpets.cpp	/^int R, C, K;$/;"	v
+K	ois/ois19/round3/fairgame/fairgame.cpp	/^int N, K, M, P, Q;$/;"	v
+K	ois/ois20/round1/SOLVES/butoaie.py	/^    K = N-K$/;"	v
+K	ois/ois20/round2/ois11_round2_solutions/examroom.cpp	/^long long R, C, K;$/;"	v
+K	ois/ois20/round3/ois11_round3_solutions.tar(1)/fairgame.cpp	/^int N, K, M, P, Q;$/;"	v
+K	ois/ois20/round3/ois11_round3_solutions.tar(1)/police.cpp	/^int N, K, i;$/;"	v
+K	ois/ois20/round4/ois11_round4_solutions.tar(1)/gameshow.py	/^K = 0$/;"	v
+K	ois/ois20/round4/ois11_round4_solutions.tar(1)/raid.py	/^K = 0$/;"	v
+K	ois/ois23/round1/monopoly/monopoly.cpp	/^int N, K;$/;"	v
+K	ois/ois23/round1/monopoly/monopoly_final.cpp	/^int N, K;$/;"	v
+K	ois/ois23/round1/tournament2/tournament2.cpp	/^int K, N, R, T;$/;"	v
+K	ois/ois23/round2/multiplication.cpp	/^vector<int> K;$/;"	v
+K	ois/ois23/round2/scoazze (1).cpp	/^int N, K, i;$/;"	v
+K	ois/ois23/round2/scoazze.cpp	/^int N, K;$/;"	v
+K	ois/ois24/round3/dogtricks/dogtrick.cpp	/^int N, K;$/;"	v
+K	ois/ois24/simulazione/police/police.cpp	/^int N, K, i;$/;"	v
+K	training/dp/wheel/wheel.cpp	/^int K[MAXN];$/;"	v
+L	ois/ois20/round2/ois11_round2_solutions/antennas.cpp	/^int L[MAXN], P[MAXN], S[MAXN], T[MAXN], sending[MAXN];$/;"	v
+L	ois/ois20/round2/ois11_round2_solutions/evacuation.py	/^L = 0$/;"	v
+L	ois/ois20/round3/ois11_round3_solutions.tar(1)/dessert.cpp	/^int M[MAXN], L[MAXN], *F[MAXN], deg[MAXN];$/;"	v
+L	ois/ois20/round3/ois11_round3_solutions.tar(1)/dessert.py	/^L = [None for _ in range(N)]$/;"	v
+L	training/greedy/streetlights/streetlights.cpp	/^int L[MAXN];$/;"	v
+LL	ois/ois23/round1/monopoly/main.cpp	/^typedef long long int LL;$/;"	t	file:
+M	algobadge/greedy/quadri/grader.cpp	/^static long long M;$/;"	v	file:
+M	algobadge/greedy/quadri/quadri_final.cpp	/^static long long M;$/;"	v	file:
+M	algobadge/ricorsione/solitario/solitario.cpp	/^int N, M;$/;"	v
+M	algobadge/ricorsione/solitario/solitario_dp.cpp	/^int N, M;$/;"	v
+M	algobadge/ricorsione/solitario2/solve.cpp	/^int N, M;$/;"	v
+M	ois/ois18/kitchen/kitchen.cpp	/^int N, M, i, value = 0;$/;"	v
+M	ois/ois19/round1/SOLVES/exhibitions.cpp	/^int N, M, i, best, opponent, count;$/;"	v
+M	ois/ois19/round1/SOLVES/kitchen.cpp	/^int N, M, i, value = 0;$/;"	v
+M	ois/ois19/round1/SOLVES/poker.cpp	/^int N, M, i, d, e;$/;"	v
+M	ois/ois19/round1/exhibitions/exhibitions.cpp	/^int N, M, i, opponent, count;$/;"	v
+M	ois/ois19/round1/poker/poker.cpp	/^int N, M, i;$/;"	v
+M	ois/ois19/round2/grasshopper/grasshopper.cpp	/^int N, M, i;$/;"	v
+M	ois/ois19/round2/trip/trip.cpp	/^int N, M;$/;"	v
+M	ois/ois19/round3/fairgame/fairgame.cpp	/^int N, K, M, P, Q;$/;"	v
+M	ois/ois19/round4/cats/cats.cpp	/^int M[MAXN], F[MAXN];$/;"	v
+M	ois/ois20/round1/SOLVES/sprei.cpp	/^int N, M, B;$/;"	v
+M	ois/ois20/round2/ois11_round2_solutions/machine.cpp	/^int M[MAXD + 1];$/;"	v
+M	ois/ois20/round2/ois11_round2_solutions/machine.py	/^M = [0] + list(map(int, input().strip().split()))$/;"	v
+M	ois/ois20/round3/ois11_round3_solutions.tar(1)/dessert.cpp	/^int M[MAXN], L[MAXN], *F[MAXN], deg[MAXN];$/;"	v
+M	ois/ois20/round3/ois11_round3_solutions.tar(1)/dessert.py	/^M = [None for _ in range(N)]$/;"	v
+M	ois/ois20/round3/ois11_round3_solutions.tar(1)/fairgame.cpp	/^int N, K, M, P, Q;$/;"	v
+M	ois/ois20/round3/ois11_round3_solutions.tar(1)/marcel.py	/^M = [list(map(int, input().strip().split())) for _ in range(N)]$/;"	v
+M	ois/ois20/round4/ois11_round4_solutions.tar(1)/gameshow.cpp	/^int N, M, i;$/;"	v
+M	ois/ois20/round4/ois11_round4_solutions.tar(1)/islands.cpp	/^int M[MAXN][MAXN];$/;"	v
+M	ois/ois20/round4/ois11_round4_solutions.tar(1)/islands.py	/^M = [None] * R$/;"	v
+M	ois/ois24/round3/peaks/peaks.cpp	/^long long N, M;$/;"	v
+M	ois/ois24/round4/jobs/jobs.cpp	/^long long N, M;$/;"	v
+M	ois/ois24/round4/jobs/solve.cpp	/^long long N, M;$/;"	v
+M	training/dp/waterslide/waterslide.cpp	/^int N, M, P;$/;"	v
+M	training/dp/words/wordsearch.cpp	/^char M[MAXH][MAXW + 1];$/;"	v
+M	training/grafi/picarats/picarats.cpp	/^int N, M, C_0, a, b, c, i;$/;"	v
+M	training/math/recipe/recipe.cpp	/^int N, M;$/;"	v
+M0	ois/ois20/round4/ois11_round4_solutions.tar(1)/time.cpp	/^int H0, M0, H1, M1;$/;"	v
+M1	ois/ois20/round4/ois11_round4_solutions.tar(1)/time.cpp	/^int H0, M0, H1, M1;$/;"	v
+MAXC	ois/ois20/round2/ois11_round2_solutions/ransomware.cpp	/^const int MAXC = 100;$/;"	v
+MAXC	training/grafi/picarats/picarats.cpp	14;"	d	file:
+MAXD	ois/ois19/round2/SOLVES/enigmath.cpp	11;"	d	file:
+MAXD	ois/ois20/round2/ois11_round2_solutions/machine.cpp	16;"	d	file:
+MAXD	ois/ois20/round4/ois11_round4_solutions.tar(1)/forum.cpp	15;"	d	file:
+MAXE	ois/ois20/round4/ois11_round4_solutions.tar(1)/forum.cpp	17;"	d	file:
+MAXF	ois/ois20/round4/ois11_round4_solutions.tar(1)/polygon.cpp	14;"	d	file:
+MAXH	training/dp/words/wordsearch.cpp	/^const int MAXH = 100;$/;"	v
+MAXK	algobadge/dp/nonna/solve_rec.cpp	9;"	d	file:
+MAXK	ois/ois19/round2/SOLVES/carpets.cpp	9;"	d	file:
+MAXK	ois/ois23/round2/scoazze (1).cpp	12;"	d	file:
+MAXK	ois/ois24/round3/dogtricks/dogtrick.cpp	13;"	d	file:
+MAXL	ois/ois20/round2/ois11_round2_solutions/ransomware.cpp	/^const int MAXL = 1000;$/;"	v
+MAXL	ois/ois24/simulazione/typewriter/typewriter.cpp	13;"	d	file:
+MAXM	algobadge/dp/mostra/solve_rec.cpp	/^const int MAXM = 1002;$/;"	v
+MAXM	ois/ois18/kitchen/kitchen.cpp	13;"	d	file:
+MAXM	ois/ois19/round1/SOLVES/kitchen.cpp	9;"	d	file:
+MAXM	ois/ois19/round2/grasshopper/grasshopper.cpp	11;"	d	file:
+MAXM	ois/ois19/round2/trip/trip.cpp	17;"	d	file:
+MAXM	ois/ois24/round3/dogtricks/dogtrick.cpp	14;"	d	file:
+MAXM	training/dp/waterslide/waterslide.cpp	2;"	d	file:
+MAXM	training/dp/waterslide/waterslide2.cpp	2;"	d	file:
+MAXM	training/grafi/picarats/picarats.cpp	13;"	d	file:
+MAXN	algobadge/dp/mostra/solve_rec.cpp	/^const int MAXN = 1002;$/;"	v
+MAXN	algobadge/dp/nonna/solve_rec.cpp	8;"	d	file:
+MAXN	algobadge/dp/treni/solve.cpp	11;"	d	file:
+MAXN	algobadge/greedy/truffa/truffa.cpp	4;"	d	file:
+MAXN	ois/ois18/kitchen/kitchen.cpp	12;"	d	file:
+MAXN	ois/ois19/round1/SOLVES/exhibitions.cpp	9;"	d	file:
+MAXN	ois/ois19/round1/SOLVES/kitchen.cpp	8;"	d	file:
+MAXN	ois/ois19/round1/SOLVES/malls.cpp	6;"	d	file:
+MAXN	ois/ois19/round1/SOLVES/muffin.cpp	12;"	d	file:
+MAXN	ois/ois19/round1/SOLVES/poker.cpp	8;"	d	file:
+MAXN	ois/ois19/round1/christmas/christmas.cpp	14;"	d	file:
+MAXN	ois/ois19/round1/exhibitions/exhibitions.cpp	10;"	d	file:
+MAXN	ois/ois19/round1/malls/malls.cpp	15;"	d	file:
+MAXN	ois/ois19/round1/muffin/muffin.cpp	11;"	d	file:
+MAXN	ois/ois19/round1/numpad/numpad.cpp	13;"	d	file:
+MAXN	ois/ois19/round1/poker/poker.cpp	14;"	d	file:
+MAXN	ois/ois19/round2/SOLVES/bankrupt.cpp	12;"	d	file:
+MAXN	ois/ois19/round2/bankrupt/bankrupt.cpp	10;"	d	file:
+MAXN	ois/ois19/round2/grasshopper/grasshopper.cpp	10;"	d	file:
+MAXN	ois/ois19/round2/trip/trip.cpp	16;"	d	file:
+MAXN	ois/ois19/round4/cats/cats.cpp	13;"	d	file:
+MAXN	ois/ois19/round4/shopping/shopping.cpp	18;"	d	file:
+MAXN	ois/ois20/round1/SOLVES/funnygraph.cpp	11;"	d	file:
+MAXN	ois/ois20/round2/ois11_round2_solutions/antennas.cpp	16;"	d	file:
+MAXN	ois/ois20/round2/ois11_round2_solutions/bonus.c	12;"	d	file:
+MAXN	ois/ois20/round2/ois11_round2_solutions/bonus.cpp	12;"	d	file:
+MAXN	ois/ois20/round2/ois11_round2_solutions/evacuation.cpp	12;"	d	file:
+MAXN	ois/ois20/round2/ois11_round2_solutions/ransomware.cpp	/^const int MAXN = 100;$/;"	v
+MAXN	ois/ois20/round3/ois11_round3_solutions.tar(1)/dessert.cpp	11;"	d	file:
+MAXN	ois/ois20/round3/ois11_round3_solutions.tar(1)/ladder.cpp	8;"	d	file:
+MAXN	ois/ois20/round3/ois11_round3_solutions.tar(1)/police.cpp	12;"	d	file:
+MAXN	ois/ois20/round3/ois11_round3_solutions.tar(1)/scmax.cpp	13;"	d	file:
+MAXN	ois/ois20/round4/ois11_round4_solutions.tar(1)/confetti.cpp	12;"	d	file:
+MAXN	ois/ois20/round4/ois11_round4_solutions.tar(1)/gameshow.cpp	12;"	d	file:
+MAXN	ois/ois20/round4/ois11_round4_solutions.tar(1)/islands.cpp	9;"	d	file:
+MAXN	ois/ois20/round4/ois11_round4_solutions.tar(1)/polygon.cpp	15;"	d	file:
+MAXN	ois/ois20/round4/ois11_round4_solutions.tar(1)/polygon.py	/^MAXN = 100$/;"	v
+MAXN	ois/ois20/round4/ois11_round4_solutions.tar(1)/raid.cpp	15;"	d	file:
+MAXN	ois/ois20/round4/ois11_round4_solutions.tar(1)/ropes.cpp	11;"	d	file:
+MAXN	ois/ois23/round2/scoazze (1).cpp	11;"	d	file:
+MAXN	ois/ois24/round3/dogtricks/dogtrick.cpp	12;"	d	file:
+MAXN	ois/ois24/simulazione/police/police.cpp	12;"	d	file:
+MAXN	training/dp/subset/subset.cpp	4;"	d	file:
+MAXN	training/dp/waterslide/waterslide2.cpp	3;"	d	file:
+MAXN	training/dp/wheel/wheel.cpp	4;"	d	file:
+MAXN	training/grafi/picarats/picarats.cpp	12;"	d	file:
+MAXN	training/greedy/pens/pens_final.cpp	10;"	d	file:
+MAXN	training/greedy/streetlights/streetlights.cpp	4;"	d	file:
+MAXN	training/greedy/swimmingpool/swimmingpool.cpp	12;"	d	file:
+MAXN	training/math/bonus/bonus.cpp	12;"	d	file:
+MAXN	training/others/interrogazioni/interrogazioni.cpp	7;"	d	file:
+MAXP	algobadge/dp/nonna/solve_rec.cpp	10;"	d	file:
+MAXP	ois/ois20/round4/ois11_round4_solutions.tar(1)/forum.cpp	16;"	d	file:
+MAXP	ois/ois24/round1/ping pong/solve.cpp	4;"	d	file:
+MAXQ	training/dp/wheel/wheel.cpp	5;"	d	file:
+MAXR	ois/ois20/round3/ois11_round3_solutions.tar(1)/pulse.py	/^MAXR = max(R)$/;"	v
+MAXS	training/dp/words/wordsearch.cpp	/^const int MAXS = 1000;$/;"	v
+MAXT	algobadge/dp/treni/solve.cpp	12;"	d	file:
+MAXT	ois/ois19/round1/SOLVES/poker.cpp	9;"	d	file:
+MAXT	ois/ois19/round1/poker/poker.cpp	15;"	d	file:
+MAXT	ois/ois20/round3/ois11_round3_solutions.tar(1)/pulse.py	/^MAXT = functools.reduce(math.lcm, set(R))$/;"	v
+MAXV	ois/ois19/round3/fairgame/fairgame.cpp	15;"	d	file:
+MAXW	training/dp/words/wordsearch.cpp	/^const int MAXW = 100;$/;"	v
+MOD	ois/ois20/round3/ois11_round3_solutions.tar(1)/marcel.cpp	/^const int MOD = 1000000000 + 7;$/;"	v
+MOD	ois/ois20/round3/ois11_round3_solutions.tar(1)/marcel.py	/^MOD = 10**9+7$/;"	v
+MOD	ois/ois24/round1/binary chess/binarychess.cpp	/^const int MOD = 1e9 + 7;$/;"	v
+MOD	ois/ois24/round1/binary chess/binarychess2.cpp	/^constexpr int MOD = 1e9 + 7;$/;"	v
+MOD	training/dp/words/wordsearch.cpp	/^const int MOD = 1000000007;$/;"	v
+MULT	ois/ois19/round2/SOLVES/enigmath.cpp	13;"	d	file:
+N	algobadge/dp/nonna/solve_rec.cpp	/^int N, K, i;$/;"	v
+N	algobadge/grafi/mincammino/mincammino.cpp	/^    int N;$/;"	m	class:Graph	file:
+N	algobadge/greedy/quadri/grader.cpp	/^static int N;$/;"	v	file:
+N	algobadge/greedy/quadri/quadri_final.cpp	/^static int N;$/;"	v	file:
+N	algobadge/ricorsione/solitario/solitario.cpp	/^int N, M;$/;"	v
+N	algobadge/ricorsione/solitario/solitario_dp.cpp	/^int N, M;$/;"	v
+N	algobadge/ricorsione/solitario2/solve.cpp	/^int N, M;$/;"	v
+N	ois/ois18/kitchen/kitchen.cpp	/^int N, M, i, value = 0;$/;"	v
+N	ois/ois19/round1/SOLVES/christmas.cpp	/^int N, B;$/;"	v
+N	ois/ois19/round1/SOLVES/exhibitions.cpp	/^int N, M, i, best, opponent, count;$/;"	v
+N	ois/ois19/round1/SOLVES/kitchen.cpp	/^int N, M, i, value = 0;$/;"	v
+N	ois/ois19/round1/SOLVES/poker.cpp	/^int N, M, i, d, e;$/;"	v
+N	ois/ois19/round1/SOLVES/restaurants.cpp	/^int N;              \/\/ number of restaurateurs$/;"	v
+N	ois/ois19/round1/christmas/christmas.cpp	/^int N, B, i;$/;"	v
+N	ois/ois19/round1/exhibitions/exhibitions.cpp	/^int N, M, i, opponent, count;$/;"	v
+N	ois/ois19/round1/malls/malls.cpp	/^int N, K, i;$/;"	v
+N	ois/ois19/round1/muffin/muffin.cpp	/^int N, K, i;$/;"	v
+N	ois/ois19/round1/numpad/numpad.cpp	/^int N;$/;"	v
+N	ois/ois19/round1/poker/poker.cpp	/^int N, M, i;$/;"	v
+N	ois/ois19/round1/restaurants/restaurants.cpp	/^int N, i, j;$/;"	v
+N	ois/ois19/round2/SOLVES/bankrupt.cpp	/^int N, i;$/;"	v
+N	ois/ois19/round2/bankrupt/bankrupt.cpp	/^int N, i;$/;"	v
+N	ois/ois19/round2/grasshopper/grasshopper.cpp	/^int N, M, i;$/;"	v
+N	ois/ois19/round2/trip/trip.cpp	/^int N, M;$/;"	v
+N	ois/ois19/round3/fairgame/fairgame.cpp	/^int N, K, M, P, Q;$/;"	v
+N	ois/ois19/round4/shopping/shopping.cpp	/^int N, E, i;$/;"	v
+N	ois/ois20/round1/SOLVES/grades.py	/^N = int(input())$/;"	v
+N	ois/ois20/round1/SOLVES/smartphone.py	/^N = int(input().strip())$/;"	v
+N	ois/ois20/round1/SOLVES/sprei.cpp	/^int N, M, B;$/;"	v
+N	ois/ois20/round2/ois11_round2_solutions/antennas.cpp	/^int N, D;$/;"	v
+N	ois/ois20/round2/ois11_round2_solutions/bonus.c	/^long long N, i;$/;"	v
+N	ois/ois20/round2/ois11_round2_solutions/bonus.cpp	/^int N, i;$/;"	v
+N	ois/ois20/round2/ois11_round2_solutions/bonus.py	/^N = int(input().strip())$/;"	v
+N	ois/ois20/round2/ois11_round2_solutions/evacuation.cpp	/^int N, i, c;$/;"	v
+N	ois/ois20/round2/ois11_round2_solutions/evacuation.py	/^N = int(input().strip())$/;"	v
+N	ois/ois20/round2/ois11_round2_solutions/ransomware.py	/^N = int(input().strip())$/;"	v
+N	ois/ois20/round3/ois11_round3_solutions.tar(1)/dessert.cpp	/^int N, R, i, j;$/;"	v
+N	ois/ois20/round3/ois11_round3_solutions.tar(1)/dessert.py	/^N = int(input().strip())$/;"	v
+N	ois/ois20/round3/ois11_round3_solutions.tar(1)/fairgame.cpp	/^int N, K, M, P, Q;$/;"	v
+N	ois/ois20/round3/ois11_round3_solutions.tar(1)/ladder.cpp	/^int N, i;$/;"	v
+N	ois/ois20/round3/ois11_round3_solutions.tar(1)/ladder.py	/^N = int(input().strip())$/;"	v
+N	ois/ois20/round3/ois11_round3_solutions.tar(1)/marcel.cpp	/^int N, X, mat[NMAX][NMAX];$/;"	v
+N	ois/ois20/round3/ois11_round3_solutions.tar(1)/police.cpp	/^int N, K, i;$/;"	v
+N	ois/ois20/round3/ois11_round3_solutions.tar(1)/scmax.cpp	/^int N, i;$/;"	v
+N	ois/ois20/round3/ois11_round3_solutions.tar(1)/scmax.py	/^N = int(input().strip())$/;"	v
+N	ois/ois20/round4/ois11_round4_solutions.tar(1)/confetti.cpp	/^int N, i;$/;"	v
+N	ois/ois20/round4/ois11_round4_solutions.tar(1)/confetti.py	/^N = int(input().strip())$/;"	v
+N	ois/ois20/round4/ois11_round4_solutions.tar(1)/gameshow.cpp	/^int N, M, i;$/;"	v
+N	ois/ois20/round4/ois11_round4_solutions.tar(1)/raid.cpp	/^int N, P, i;$/;"	v
+N	ois/ois20/round4/ois11_round4_solutions.tar(1)/ropes.cpp	/^int N, i;$/;"	v
+N	ois/ois20/round4/ois11_round4_solutions.tar(1)/ropes.py	/^N = int(input().strip())$/;"	v
+N	ois/ois23/round1/monopoly/monopoly.cpp	/^int N, K;$/;"	v
+N	ois/ois23/round1/monopoly/monopoly_final.cpp	/^int N, K;$/;"	v
+N	ois/ois23/round1/panama/panama.cpp	/^int N, Q;$/;"	v
+N	ois/ois23/round1/panama/panama.dp - Copia.cpp	/^int N, Q,j=0,m=0,k=0;$/;"	v
+N	ois/ois23/round1/panama/panama.dp.cpp	/^int N, Q,j=0,m=0,k=0,sum=0;$/;"	v
+N	ois/ois23/round1/sumtree/main.cpp	/^int N;$/;"	v
+N	ois/ois23/round1/tournament2/tournament2.cpp	/^int K, N, R, T;$/;"	v
+N	ois/ois23/round2/multiplication.cpp	/^int N;$/;"	v
+N	ois/ois23/round2/scoazze (1).cpp	/^int N, K, i;$/;"	v
+N	ois/ois23/round2/scoazze.cpp	/^int N, K;$/;"	v
+N	ois/ois23/round3/animals/animals.cpp	/^int N;$/;"	v
+N	ois/ois24/round3/dogtricks/dogtrick.cpp	/^int N, K;$/;"	v
+N	ois/ois24/round3/peaks/peaks.cpp	/^long long N, M;$/;"	v
+N	ois/ois24/round3/strangeoperation/strangeoperation.cpp	/^int N;$/;"	v
+N	ois/ois24/round4/jobs/jobs.cpp	/^long long N, M;$/;"	v
+N	ois/ois24/round4/jobs/solve.cpp	/^long long N, M;$/;"	v
+N	ois/ois24/simulazione/police/police.cpp	/^int N, K, i;$/;"	v
+N	training/dp/waterslide/waterslide.cpp	/^int N, M, P;$/;"	v
+N	training/grafi/constellation/constellation.py	/^N = int(input().strip())$/;"	v
+N	training/grafi/picarats/picarats.cpp	/^int N, M, C_0, a, b, c, i;$/;"	v
+N	training/greedy/pens/pens_final.cpp	/^int N, i;$/;"	v
+N	training/greedy/swimmingpool/swimmingpool.cpp	/^int N, i;$/;"	v
+N	training/greedy/swimmingpool/swimmingpool.py	/^N = int(input().strip())$/;"	v
+N	training/math/bonus/bonus.cpp	/^long long N, i;$/;"	v
+N	training/math/confetti/confetti.py	/^N = int(input().strip())$/;"	v
+N	training/math/recipe/recipe.cpp	/^int N, M;$/;"	v
+N	training/others/flea on the number line/flea.cpp	/^int N;$/;"	v
+N	training/others/flea on the number line/flea.py	/^N = int(input().strip())$/;"	v
+NMAX	ois/ois20/round3/ois11_round3_solutions.tar(1)/marcel.cpp	/^const int NMAX = 120 + 1;$/;"	v
+NONE	ois/ois19/round2/SOLVES/enigmath.cpp	12;"	d	file:
+Nf	ois/ois19/round4/cats/cats.cpp	/^int Nm, Nf, i;$/;"	v
+Nm	ois/ois19/round4/cats/cats.cpp	/^int Nm, Nf, i;$/;"	v
+P	algobadge/dp/nonna/solve_rec.cpp	/^int P[MAXN];$/;"	v
+P	ois/ois19/round1/SOLVES/exhibitions.cpp	/^int A[MAXN], P[MAXN], G[MAXN], E[MAXN], R[MAXN];$/;"	v
+P	ois/ois19/round1/SOLVES/kitchen.cpp	/^int T[MAXM], TC[MAXM], P[MAXN]; \/\/ TC[i]: current time spent on stove i, P[i]: stove assigned to dish i$/;"	v
+P	ois/ois19/round1/SOLVES/poker.cpp	/^    int D, S, E, B, P, i;$/;"	m	struct:tournament	file:
+P	ois/ois19/round1/SOLVES/poker.cpp	/^int D[MAXN], S[MAXN], E[MAXN], B[MAXN], P[MAXN];$/;"	v
+P	ois/ois19/round1/exhibitions/exhibitions.cpp	/^int A[MAXN], P[MAXN], G[MAXN], E[MAXN], R[MAXN];$/;"	v
+P	ois/ois19/round1/poker/poker.cpp	/^    int D, S, E, B, P, i;$/;"	m	struct:tournament	file:
+P	ois/ois19/round1/poker/poker.cpp	/^int D[MAXN], S[MAXN], E[MAXN], B[MAXN], P[MAXN];$/;"	v
+P	ois/ois19/round3/fairgame/fairgame.cpp	/^int N, K, M, P, Q;$/;"	v
+P	ois/ois20/round2/ois11_round2_solutions/antennas.cpp	/^int L[MAXN], P[MAXN], S[MAXN], T[MAXN], sending[MAXN];$/;"	v
+P	ois/ois20/round2/ois11_round2_solutions/bonus.c	/^long long S[MAXN], P[MAXN];$/;"	v
+P	ois/ois20/round2/ois11_round2_solutions/bonus.cpp	/^int S[MAXN], P[MAXN];$/;"	v
+P	ois/ois20/round2/ois11_round2_solutions/bonus.py	/^P = [None] * N$/;"	v
+P	ois/ois20/round2/ois11_round2_solutions/machine.cpp	/^int P[MAXD + 1];$/;"	v
+P	ois/ois20/round2/ois11_round2_solutions/machine.py	/^P = [0] + list(map(int, input().strip().split()))$/;"	v
+P	ois/ois20/round3/ois11_round3_solutions.tar(1)/fairgame.cpp	/^int N, K, M, P, Q;$/;"	v
+P	ois/ois20/round4/ois11_round4_solutions.tar(1)/forum.cpp	/^int D, P, E, i;$/;"	v
+P	ois/ois20/round4/ois11_round4_solutions.tar(1)/gameshow.cpp	/^int P[MAXN], C[MAXN];$/;"	v
+P	ois/ois20/round4/ois11_round4_solutions.tar(1)/gameshow.py	/^P = list(map(int, input().strip().split()))$/;"	v
+P	ois/ois20/round4/ois11_round4_solutions.tar(1)/raid.cpp	/^int N, P, i;$/;"	v
+P	ois/ois20/round4/ois11_round4_solutions.tar(1)/ropes.cpp	/^int P[MAXN], T[MAXN];$/;"	v
+P	ois/ois20/round4/ois11_round4_solutions.tar(1)/ropes.py	/^P = list(map(int, input().strip().split()))$/;"	v
+P	ois/ois23/round1/vending machines/vendingmachines.py	/^    P = list(map(int, input().strip().split()))$/;"	v
+P	training/dp/waterslide/waterslide.cpp	/^int N, M, P;$/;"	v
+P	training/grafi/picarats/picarats.cpp	/^int P[MAXN];$/;"	v
+P	training/grafi/picarats/picarats.py	/^P = list(map(int, input().strip().split()))$/;"	v
+P	training/greedy/swimmingpool/swimmingpool.cpp	/^int P[MAXN];$/;"	v
+P	training/greedy/swimmingpool/swimmingpool.py	/^P = list(map(int, input().strip().split()))$/;"	v
+P	training/math/bonus/bonus.cpp	/^long long S[MAXN], P[MAXN];$/;"	v
+P	training/math/recipe/recipe.cpp	/^vector<vector<int>> P;$/;"	v
+POZ	ois/ois20/round1/SOLVES/sprei.cpp	/^vector <vector <int>> POZ;                   \/\/\/ input vector POZ$/;"	v
+Q	ois/ois19/round3/fairgame/fairgame.cpp	/^int N, K, M, P, Q;$/;"	v
+Q	ois/ois20/round2/ois11_round2_solutions/evacuation.cpp	/^priority_queue<pair<int,int>> Q;$/;"	v
+Q	ois/ois20/round3/ois11_round3_solutions.tar(1)/fairgame.cpp	/^int N, K, M, P, Q;$/;"	v
+Q	ois/ois23/round1/panama/panama.cpp	/^int N, Q;$/;"	v
+Q	ois/ois23/round1/panama/panama.dp - Copia.cpp	/^int N, Q,j=0,m=0,k=0;$/;"	v
+Q	ois/ois23/round1/panama/panama.dp.cpp	/^int N, Q,j=0,m=0,k=0,sum=0;$/;"	v
+Q	ois/ois23/round2/scoazze.cpp	/^vector<int> C, T, Q;$/;"	v
+R	algobadge/grafi/islands/islands - Copia.cpp	/^int R, C, i, j;$/;"	v
+R	algobadge/grafi/islands/islands.cpp	/^int R, C, i, j;$/;"	v
+R	ois/ois19/round1/SOLVES/exhibitions.cpp	/^int A[MAXN], P[MAXN], G[MAXN], E[MAXN], R[MAXN];$/;"	v
+R	ois/ois19/round1/exhibitions/exhibitions.cpp	/^int A[MAXN], P[MAXN], G[MAXN], E[MAXN], R[MAXN];$/;"	v
+R	ois/ois19/round2/SOLVES/carpets.cpp	/^int R, C, K;$/;"	v
+R	ois/ois19/round2/carpets/carpets.cpp	/^int R, C, K;$/;"	v
+R	ois/ois20/round2/ois11_round2_solutions/examroom.cpp	/^long long R, C, K;$/;"	v
+R	ois/ois20/round3/ois11_round3_solutions.tar(1)/dessert.cpp	/^int N, R, i, j;$/;"	v
+R	ois/ois20/round3/ois11_round3_solutions.tar(1)/dessert.py	/^R = 0$/;"	v
+R	ois/ois20/round3/ois11_round3_solutions.tar(1)/pulse.py	/^R = [None for _ in range(P)]$/;"	v
+R	ois/ois20/round4/ois11_round4_solutions.tar(1)/islands.cpp	/^int R, C, i, j;$/;"	v
+R	ois/ois23/round1/tournament2/tournament2.cpp	/^int K, N, R, T;$/;"	v
+R	training/math/recipe/recipe.cpp	/^vector<double> R;$/;"	v
+S	ois/ois19/round1/SOLVES/poker.cpp	/^    int D, S, E, B, P, i;$/;"	m	struct:tournament	file:
+S	ois/ois19/round1/SOLVES/poker.cpp	/^int D[MAXN], S[MAXN], E[MAXN], B[MAXN], P[MAXN];$/;"	v
+S	ois/ois19/round1/numpad/numpad.cpp	/^string S;$/;"	v
+S	ois/ois19/round1/poker/poker.cpp	/^    int D, S, E, B, P, i;$/;"	m	struct:tournament	file:
+S	ois/ois19/round1/poker/poker.cpp	/^int D[MAXN], S[MAXN], E[MAXN], B[MAXN], P[MAXN];$/;"	v
+S	ois/ois20/round2/ois11_round2_solutions/antennas.cpp	/^int L[MAXN], P[MAXN], S[MAXN], T[MAXN], sending[MAXN];$/;"	v
+S	ois/ois20/round2/ois11_round2_solutions/bonus.c	/^long long S[MAXN], P[MAXN];$/;"	v
+S	ois/ois20/round2/ois11_round2_solutions/bonus.cpp	/^int S[MAXN], P[MAXN];$/;"	v
+S	ois/ois20/round2/ois11_round2_solutions/bonus.py	/^S = [None] * N$/;"	v
+S	ois/ois23/round1/tournament2/tournament2.cpp	/^vector<int> S;$/;"	v
+S	ois/ois23/round3/animals/animals.cpp	/^vector<int> S;$/;"	v
+S	training/dp/words/wordsearch.cpp	/^string S;$/;"	v
+S	training/math/bonus/bonus.cpp	/^long long S[MAXN], P[MAXN];$/;"	v
+S	training/others/flea on the number line/flea.cpp	/^string S;$/;"	v
+S	training/others/flea on the number line/flea.py	/^S = input().strip()$/;"	v
+Segment	ois/ois20/round4/ois11_round4_solutions.tar(1)/polygon.py	/^class Segment:$/;"	c
+Solver	ois/ois20/round1/SOLVES/23.cpp	/^	vector <int> Solver(vector <int> q) {$/;"	f	namespace:Solver
+Solver	ois/ois20/round1/SOLVES/23.cpp	/^namespace Solver {$/;"	n	file:
+Solver	ois/ois20/round1/SOLVES/sprei.cpp	/^int Solver()$/;"	f
+T	ois/ois18/kitchen/kitchen.cpp	/^int T[MAXM], tc[MAXM], p[MAXN]; \/\/ tc = current time, p = stove assigned to dish$/;"	v
+T	ois/ois19/round1/SOLVES/kitchen.cpp	/^int T[MAXM], TC[MAXM], P[MAXN]; \/\/ TC[i]: current time spent on stove i, P[i]: stove assigned to dish i$/;"	v
+T	ois/ois19/round1/SOLVES/muffin.cpp	/^int T[MAXN];$/;"	v
+T	ois/ois19/round1/SOLVES/poker.cpp	/^tournament T[MAXN];$/;"	v
+T	ois/ois19/round1/poker/poker.cpp	/^tournament T[MAXN];$/;"	v
+T	ois/ois20/round1/SOLVES/blindpunch.py	/^T = int(input().strip())$/;"	v
+T	ois/ois20/round1/SOLVES/fibonaccibug.py	/^T = int(input().strip())$/;"	v
+T	ois/ois20/round1/SOLVES/teleport2.py	/^T = int(input().strip())$/;"	v
+T	ois/ois20/round2/ois11_round2_solutions/antennas.cpp	/^int L[MAXN], P[MAXN], S[MAXN], T[MAXN], sending[MAXN];$/;"	v
+T	ois/ois20/round3/ois11_round3_solutions.tar(1)/scmax.cpp	/^int A[MAXN], T[MAXN+1];$/;"	v
+T	ois/ois20/round3/ois11_round3_solutions.tar(1)/scmax.py	/^T = [None] + list(map(int, input().strip().split()))$/;"	v
+T	ois/ois20/round4/ois11_round4_solutions.tar(1)/forum.cpp	/^int T[MAXE], id[MAXE];$/;"	v
+T	ois/ois20/round4/ois11_round4_solutions.tar(1)/forum.py	/^T = [None] * E $/;"	v
+T	ois/ois20/round4/ois11_round4_solutions.tar(1)/ropes.cpp	/^int P[MAXN], T[MAXN];$/;"	v
+T	ois/ois20/round4/ois11_round4_solutions.tar(1)/ropes.py	/^T = list(map(int, input().strip().split()))$/;"	v
+T	ois/ois23/round1/monopoly/monopoly.cpp	/^vector<int> T;$/;"	v
+T	ois/ois23/round1/monopoly/monopoly_final.cpp	/^vector<int> T;$/;"	v
+T	ois/ois23/round1/tournament2/tournament2.cpp	/^int K, N, R, T;$/;"	v
+T	ois/ois23/round1/vending machines/vendingmachines.py	/^    T = list(map(int, input().strip().split()))$/;"	v
+T	ois/ois23/round1/vending machines/vendingmachines.py	/^T = int(input().strip())$/;"	v
+T	ois/ois23/round2/scoazze.cpp	/^vector<int> C, T, Q;$/;"	v
+T	ois/ois24/round3/dogtricks/dogtrick.cpp	/^vector<int> T;$/;"	v
+T	training/math/sign/sign.py	/^T = int(input().strip())$/;"	v
+TC	ois/ois19/round1/SOLVES/kitchen.cpp	/^int T[MAXM], TC[MAXM], P[MAXN]; \/\/ TC[i]: current time spent on stove i, P[i]: stove assigned to dish i$/;"	v
+V	algobadge/greedy/quadri/grader.cpp	/^static int* V;$/;"	v	file:
+V	algobadge/greedy/quadri/quadri_final.cpp	/^static int* V;$/;"	v	file:
+V	algobadge/greedy/truffa/truffa.cpp	/^int V[MAXN];$/;"	v
+V	ois/ois19/round1/christmas/christmas.cpp	/^int V[MAXN];$/;"	v
+V	ois/ois20/round1/SOLVES/butoaie.py	/^V = list(map(int, input().strip().split()))$/;"	v
+V	ois/ois20/round1/SOLVES/smartphone.py	/^V = map(int, input().strip().split())$/;"	v
+V	ois/ois20/round3/ois11_round3_solutions.tar(1)/ladder.cpp	/^int V[MAXN];$/;"	v
+V	ois/ois20/round3/ois11_round3_solutions.tar(1)/police.cpp	/^int V[MAXN + 1];$/;"	v
+V	ois/ois20/round3/ois11_round3_solutions.tar(1)/police.py	/^V = [-1] + list(map(int, input().strip().split()))$/;"	v
+V	ois/ois20/round3/ois11_round3_solutions.tar(1)/pulse.py	/^V = [[[False for r in range(MAXT)] for y in range(N)] for x in range(N)]$/;"	v
+V	ois/ois23/round1/panama/panama.cpp	/^vector<int> V;$/;"	v
+V	ois/ois23/round1/panama/panama.dp - Copia.cpp	/^vector<int> V;$/;"	v
+V	ois/ois23/round1/panama/panama.dp.cpp	/^vector<int> V;$/;"	v
+V	ois/ois23/round1/sumtree/main.cpp	/^vector<int> V;$/;"	v
+V	ois/ois24/simulazione/police/police.cpp	/^int V[MAXN + 1];$/;"	v
+VMAX	ois/ois20/round1/SOLVES/23.cpp	/^	const int VMAX = 100000000;$/;"	m	namespace:Solver	file:
+W	training/dp/wheel/wheel.cpp	/^int W[2*MAXN];$/;"	v
+W	training/dp/words/wordsearch.cpp	/^int H, W;$/;"	v
+X	ois/ois19/round2/SOLVES/bankrupt.cpp	/^int X[MAXN], Y[MAXN];$/;"	v
+X	ois/ois19/round2/bankrupt/bankrupt.cpp	/^int X[MAXN], Y[MAXN];$/;"	v
+X	ois/ois20/round3/ois11_round3_solutions.tar(1)/marcel.cpp	/^int N, X, mat[NMAX][NMAX];$/;"	v
+X	ois/ois20/round3/ois11_round3_solutions.tar(1)/pulse.py	/^X = [None for _ in range(P)]$/;"	v
+X	ois/ois20/round4/ois11_round4_solutions.tar(1)/polygon.cpp	/^int X[MAXF];$/;"	v
+X	ois/ois20/round4/ois11_round4_solutions.tar(1)/polygon.py	/^X = []$/;"	v
+X	training/grafi/constellation/constellation.py	/^X = [0] * N$/;"	v
+Y	ois/ois19/round2/SOLVES/bankrupt.cpp	/^int X[MAXN], Y[MAXN];$/;"	v
+Y	ois/ois19/round2/bankrupt/bankrupt.cpp	/^int X[MAXN], Y[MAXN];$/;"	v
+Y	ois/ois20/round2/ois11_round2_solutions/machine.cpp	/^int C, D, Y, i;$/;"	v
+Y	ois/ois20/round3/ois11_round3_solutions.tar(1)/pulse.py	/^Y = [None for _ in range(P)]$/;"	v
+Y	ois/ois20/round4/ois11_round4_solutions.tar(1)/polygon.cpp	/^int Y[MAXF];$/;"	v
+Y	ois/ois20/round4/ois11_round4_solutions.tar(1)/polygon.py	/^Y = []$/;"	v
+Y	training/grafi/constellation/constellation.py	/^Y = [0] * N$/;"	v
+__init__	dijkstra.py	/^    def __init__(self, vertices):$/;"	m	class:Graph
+__init__	ois/ois20/round4/ois11_round4_solutions.tar(1)/polygon.py	/^    def __init__(self, x1, y1, x2, y2):$/;"	m	class:Segment
+a	ois/ois20/round1/SOLVES/butoaie.py	/^        a = c+1$/;"	v
+a	ois/ois20/round1/SOLVES/butoaie.py	/^a = (mV-1)\/\/Q + 1 # this I definitely need$/;"	v
+a	ois/ois20/round4/ois11_round4_solutions.tar(1)/polygon.cpp	/^  int a, b, c;  \/\/ ax + by = c$/;"	m	struct:segment_t	file:
+a	training/grafi/picarats/picarats.cpp	/^int N, M, C_0, a, b, c, i;$/;"	v
+abs_pos	training/dp/waterslide/waterslide2.cpp	/^double abs_pos(double x) {$/;"	f
+add	ois/ois20/round3/ois11_round3_solutions.tar(1)/marcel.cpp	/^inline void add(int& where, const int& val) {$/;"	f
+addEdge	algobadge/grafi/mincammino/mincammino.cpp	/^void Graph::addEdge(int a,int b){$/;"	f	class:Graph
+adia	ois/ois20/round1/SOLVES/sprei.cpp	/^    vector <vector <int>> adia;$/;"	m	struct:Cuplaj	file:
+adj	algobadge/grafi/mincammino/mincammino.cpp	/^    vector <list<int>> adj;$/;"	m	class:Graph	file:
+adj	ois/ois20/round2/ois11_round2_solutions/evacuation.cpp	/^vector<int> adj[MAXN];$/;"	v
+adj	ois/ois20/round2/ois11_round2_solutions/evacuation.py	/^adj = [[] for _ in range(N)]$/;"	v
+adj	ois/ois20/round3/ois11_round3_solutions.tar(1)/dessert.cpp	/^vector<int> adj[MAXN], stack;$/;"	v
+adj	ois/ois20/round3/ois11_round3_solutions.tar(1)/dessert.py	/^adj = [[] for _ in range(N)]$/;"	v
+adj	ois/ois20/round4/ois11_round4_solutions.tar(1)/forum.cpp	/^vector<vector<int>> adj;$/;"	v
+adj	ois/ois20/round4/ois11_round4_solutions.tar(1)/forum.py	/^adj = [[] for i in range(D+P)]$/;"	v
+advise	ois/ois19/round1/SOLVES/malls.cpp	/^int advise(int N, int K, int D[]) {$/;"	f
+aggiungi	algobadge/lib/catalogo/catalogo.cpp	/^void aggiungi(long long int id) {  $/;"	f
+aib	ois/ois20/round3/ois11_round3_solutions.tar(1)/permutation.cpp	/^std::vector < int > aib;$/;"	v
+allowed	algobadge/ricorsione/solitario/solitario.cpp	/^bool allowed(int row, int col) {$/;"	f
+allowed	algobadge/ricorsione/solitario/solitario_dp.cpp	/^bool allowed(int row, int col, int bp, int bm, int bo) {$/;"	f
+ans	ois/ois20/round2/ois11_round2_solutions/ip.py	/^ans = 0$/;"	v
+app	ois/ois23/round1/monopoly/monopoly_final.cpp	/^vector<int> sub,memory,values,app;$/;"	v
+area	algobadge/ricorsione/solitario2/solve.cpp	/^int area;$/;"	v
+b	ois/ois19/round2/chips/chips.cpp	/^int A, C, r, g, b;$/;"	v
+b	ois/ois20/round1/SOLVES/butoaie.py	/^        b = c$/;"	v
+b	ois/ois20/round1/SOLVES/butoaie.py	/^b = (mV-1)\/\/P + 1 # and with this I am definitely fine$/;"	v
+b	ois/ois20/round4/ois11_round4_solutions.tar(1)/polygon.cpp	/^  int a, b, c;  \/\/ ax + by = c$/;"	m	struct:segment_t	file:
+b	training/grafi/picarats/picarats.cpp	/^int N, M, C_0, a, b, c, i;$/;"	v
+best	ois/ois19/round1/SOLVES/exhibitions.cpp	/^int N, M, i, best, opponent, count;$/;"	v
+best	ois/ois19/round1/restaurants/restaurants.cpp	/^int vote, best = 0;$/;"	v
+best	ois/ois20/round2/ois11_round2_solutions/bonus.py	/^        best = i$/;"	v
+best	ois/ois20/round2/ois11_round2_solutions/bonus.py	/^best = 0$/;"	v
+best	ois/ois20/round2/ois11_round2_solutions/machine.py	/^            best = cost$/;"	v
+best	ois/ois20/round2/ois11_round2_solutions/machine.py	/^    best = 10**18$/;"	v
+best	ois/ois20/round3/ois11_round3_solutions.tar(1)/fairgame.py	/^        best = max(best, -A[0][1] - (i&1)*M)$/;"	v
+best	ois/ois20/round3/ois11_round3_solutions.tar(1)/fairgame.py	/^        best = max(best, -B[0][1] - (1 - (i&1))*M)$/;"	v
+best	ois/ois20/round3/ois11_round3_solutions.tar(1)/fairgame.py	/^    best = -10**9$/;"	v
+best	ois/ois20/round3/ois11_round3_solutions.tar(1)/scmax.cpp	/^int best[MAXN+1];$/;"	v
+best	ois/ois20/round3/ois11_round3_solutions.tar(1)/scmax.py	/^best = [0] * (N+1)$/;"	v
+bestd	ois/ois20/round2/ois11_round2_solutions/machine.py	/^            bestd = d$/;"	v
+bestd	ois/ois20/round2/ois11_round2_solutions/machine.py	/^    bestd = -1$/;"	v
+bfs	!TEORIA OLINFO/grafi/bfs_weighted.py	/^def bfs(graph, start, goal):$/;"	f
+bfs	training/grafi/constellation/constellation.py	/^def bfs(node):$/;"	f
+bfs	training/grafi/constellation/stars2.py	/^def bfs(node):$/;"	f
+blues	ois/ois19/round2/chips/chips.cpp	/^int greens, blues, reds;$/;"	v
+build	ois/ois24/round2/tulips/tulips_segtree.cpp	/^void build(vector<int>& a, vector<int>& tree, int v, int tl, int tr) {$/;"	f
+build_graph	training/dp/waterslide/waterslide2.cpp	/^void build_graph(int u) {$/;"	f
+c	ois/ois20/round1/SOLVES/butoaie.py	/^    c = (a+b)\/\/2 # let's try c days$/;"	v
+c	ois/ois20/round2/ois11_round2_solutions/evacuation.cpp	/^int N, i, c;$/;"	v
+c	ois/ois20/round4/ois11_round4_solutions.tar(1)/polygon.cpp	/^  int a, b, c;  \/\/ ax + by = c$/;"	m	struct:segment_t	file:
+c	training/grafi/picarats/picarats.cpp	/^int N, M, C_0, a, b, c, i;$/;"	v
+cache	training/dp/subset/subset.cpp	/^int cache[MAXN];$/;"	v
+cache	training/dp/words/wordsearch.cpp	/^int cache[MAXH][MAXW][MAXS];$/;"	v
+calc_times	ois/ois20/round4/ois11_round4_solutions.tar(1)/forum.cpp	/^void calc_times(int u) {$/;"	f
+calc_times	ois/ois20/round4/ois11_round4_solutions.tar(1)/forum.pas	/^procedure calc_times(u : longint);$/;"	p
+can_destroy	ois/ois20/round4/ois11_round4_solutions.tar(1)/raid.cpp	/^bool can_destroy(int i) {$/;"	f
+candies_left	ois/ois20/round3/ois11_round3_solutions.tar(1)/halloween.py	/^candies_left = M % sum(C)$/;"	v
+check	training/dp/trendy trash/trendytrash_final.cpp	/^bool check=true;$/;"	v
+codes	ois/ois20/round2/ois11_round2_solutions/ransomware.cpp	/^char codes[10][MAXC+1];$/;"	v
+codes	ois/ois20/round2/ois11_round2_solutions/ransomware.py	/^codes = []$/;"	v
+codes_len	ois/ois20/round2/ois11_round2_solutions/ransomware.cpp	/^int codes_len[10];$/;"	v
+codifica	training/others/crittografia riflessa/crittografia.cpp	/^int codifica(int N) {$/;"	f
+com	ois/ois20/round2/ois11_round2_solutions/evacuation.py	/^com = [-1 for _ in range(N+1)] # competing persons as priority queue$/;"	v
+compra	algobadge/intro/biglietti.cpp	/^int compra(int N, int M, int A, int B) { \/\/ncorse,corse in carnet, costo biglietti, costo carnet$/;"	f
+compra	algobadge/intro/biglietti/biglietti.cpp	/^int compra(int N, int M, int A, int B) { \/\/ncorse,corse in carnet, costo biglietti, costo carnet$/;"	f
+computeDP	ois/ois24/round2/tulips/tulips_sparse.cpp	/^void computeDP(int i, int k, int l, int r, int optl, int optr, vector<vector<long long>>& dp) {$/;"	f
+conta	algobadge/lib/catalogo/catalogo.cpp	/^long long int conta(long long int id) {$/;"	f
+contacts	ois/ois20/round2/ois11_round2_solutions/ransomware.py	/^contacts = []$/;"	v
+control	ois/ois23/round1/monopoly/monopoly_final.cpp	/^void control(int start, vector<int> sub){$/;"	f
+controlla	algobadge/lib/cestini/cestini_final.cpp	/^int controlla(int a,int i) { \/\/a cestino di cui si vuole controllare l'elemento i=pos$/;"	f
+cost	ois/ois20/round1/SOLVES/fibonaccibug.py	/^    cost = [0] * C$/;"	v
+cost	ois/ois20/round2/ois11_round2_solutions/machine.py	/^        cost = maint[d] + DP[(y-d) % (D+1)]$/;"	v
+count	ois/ois19/round1/SOLVES/exhibitions.cpp	/^int N, M, i, best, opponent, count;$/;"	v
+count	ois/ois19/round1/exhibitions/exhibitions.cpp	/^int N, M, i, opponent, count;$/;"	v
+count	ois/ois20/round4/ois11_round4_solutions.tar(1)/islands.py	/^count = 0$/;"	v
+count	training/others/flea on the number line/flea.py	/^count = 0$/;"	v
+countGoodSubintervals	ois/ois24/round2/goodintervals/intervals.cpp	/^int countGoodSubintervals(const vector<vector<int>>& freq, int l, int r) {$/;"	f
+creaSub	ois/ois23/round1/monopoly/monopoly_final.cpp	/^vector<int> creaSub(int start,vector<int> app){$/;"	f
+cuplaj	ois/ois20/round1/SOLVES/sprei.cpp	/^    int cuplaj(int nod) {$/;"	f	struct:Cuplaj
+cuplaj	ois/ois20/round1/SOLVES/sprei.cpp	/^Cuplaj cuplaj;                               \/\/\/ instantiation of the Matching struct$/;"	v
+cuplat	ois/ois20/round1/SOLVES/sprei.cpp	/^    vector <int> cuplat, viz;$/;"	m	struct:Cuplaj	file:
+currM	ois/ois19/round1/poker/poker.cpp	/^int currM;$/;"	v
+d	ois/ois19/round1/SOLVES/poker.cpp	/^int N, M, i, d, e;$/;"	v
+d	training/greedy/swimmingpool/swimmingpool.py	/^        d = max(maxl,maxr)$/;"	v
+dec	ois/ois19/round2/SOLVES/enigmath.cpp	/^int enc[MAXD], dec[MAXD];$/;"	v
+deg	ois/ois20/round3/ois11_round3_solutions.tar(1)/dessert.cpp	/^int M[MAXN], L[MAXN], *F[MAXN], deg[MAXN];$/;"	v
+deg	ois/ois20/round3/ois11_round3_solutions.tar(1)/dessert.py	/^deg = [0 for _ in range(N)]$/;"	v
+destination	ois/ois19/round2/trip/trip.cpp	/^int source, destination;$/;"	v
+dfs	ois/ois19/round2/SOLVES/grasshopper.cpp	/^void dfs(int u, bool good) {$/;"	f
+dfs	ois/ois20/round4/ois11_round4_solutions.tar(1)/islands.pas	/^procedure dfs (rr, cc : longint);$/;"	p
+dfs	ois/ois20/round4/ois11_round4_solutions.tar(1)/islands.py	/^def dfs(r, c):$/;"	f
+diag1	algobadge/ricorsione/solitario/solitario.cpp	/^vector <int> diag1;$/;"	v
+diag1	algobadge/ricorsione/solitario/solitario_dp.cpp	/^vector <int> diag1;$/;"	v
+diag2	algobadge/ricorsione/solitario/solitario.cpp	/^vector <int> diag2;$/;"	v
+diag2	algobadge/ricorsione/solitario/solitario_dp.cpp	/^vector <int> diag2;$/;"	v
+diff	ois/ois20/round2/ois11_round2_solutions/ip.py	/^    diff = B[i] - A[i]$/;"	v
+diff	ois/ois20/round3/ois11_round3_solutions.tar(1)/ladder.py	/^    diff = C[i] - C[i-1]$/;"	v
+dijkstra	dijkstra.py	/^    def dijkstra(self, src):$/;"	m	class:Graph
+dist	ois/ois20/round1/SOLVES/teleport2.py	/^def dist(A, B):$/;"	f
+distAB	ois/ois20/round1/SOLVES/teleport2.py	/^    distAB = dist(A, B) # bugs going directly for each other$/;"	v
+distAC	ois/ois20/round1/SOLVES/teleport2.py	/^    distAC = max(0.0, dist(A, C) - R) # bug A goes for the bed$/;"	v
+distBC	ois/ois20/round1/SOLVES/teleport2.py	/^    distBC = max(0.0, dist(B, C) - R) # bug B goes for the bed$/;"	v
+distance	!TEORIA OLINFO/grafi/bfs_weighted.py	/^distance = bfs(graph, 1, 5)$/;"	v
+distr	training/dp/waterslide/waterslide2.cpp	/^vector<double> distr;$/;"	v
+div	ois/ois20/round4/ois11_round4_solutions.tar(1)/confetti.py	/^div = 1$/;"	v
+divisors	ois/ois20/round4/ois11_round4_solutions.tar(1)/confetti.py	/^divisors = []$/;"	v
+dp	algobadge/dp/mostra/solve_rec.cpp	/^int dp[MAXN][MAXM];$/;"	v
+dp	algobadge/dp/nonna/solve_rec.cpp	/^int dp[MAXN + 1][MAXK + 1]; \/\/ num portata, peso$/;"	v
+dp	ois/ois19/round1/SOLVES/christmas.cpp	/^vector<unordered_map<int, int>> dp;$/;"	v
+dp	ois/ois19/round1/christmas/christmas.cpp	/^vector<unordered_map<int,int>> dp;$/;"	v
+dp	ois/ois19/round4/cats/cats.cpp	/^int dp[MAXN][MAXN]; \/\/ m:, f:$/;"	v
+dp	ois/ois20/round3/ois11_round3_solutions.tar(1)/marcel.cpp	/^int dp[2][NMAX][NMAX][NMAX]; \/\/ dp[l1][c1][l2][c2]$/;"	v
+dp	ois/ois20/round3/ois11_round3_solutions.tar(1)/marcel.py	/^dp = [[[[0 for _ in range(N)] for _ in range(N)] for _ in range(N)] for _ in range(2)]$/;"	v
+dp	ois/ois23/round1/panama/panama.dp - Copia.cpp	/^int dp(int start,int lenght){$/;"	f
+dp	ois/ois23/round1/panama/panama.dp.cpp	/^int dp(int start,int lenght){$/;"	f
+dp	ois/ois24/round3/dogtricks/dogtrick.cpp	/^vector<vector<int>> dp; \/\/ round, last trick, points$/;"	v
+dp	ois/ois24/round4/jobs/solve.cpp	/^vector<vector<long long>> dp;$/;"	v
+dp	training/dp/wheel/wheel.cpp	/^void dp(){$/;"	f
+dp_	ois/ois20/round3/ois11_round3_solutions.tar(1)/marcel.cpp	/^inline int dp_(const int& l1, const int& c1, const int& l2, const int& c2) {$/;"	f
+dx	ois/ois20/round3/ois11_round3_solutions.tar(1)/pulse.cpp	/^int dx[] = {-1, 0, 1, 0, 0}, dy[] = {0, 1, 0, -1, 0};$/;"	v
+dx	ois/ois20/round4/ois11_round4_solutions.tar(1)/polygon.py	/^dx = [[0,1], [1,1], [0,1], [0,0], [0,1], [0,1]]$/;"	v
+dy	ois/ois20/round3/ois11_round3_solutions.tar(1)/pulse.cpp	/^int dx[] = {-1, 0, 1, 0, 0}, dy[] = {0, 1, 0, -1, 0};$/;"	v
+dy	ois/ois20/round4/ois11_round4_solutions.tar(1)/polygon.py	/^dy = [[0,0], [0,1], [1,1], [0,1], [0,1], [1,0]]$/;"	v
+e	ois/ois19/round1/SOLVES/poker.cpp	/^int N, M, i, d, e;$/;"	v
+edge	ois/ois19/round2/trip/trip.cpp	/^struct edge{$/;"	s	file:
+edge_t	ois/ois19/round2/SOLVES/trip.cpp	/^struct edge_t {$/;"	s	file:
+enc	ois/ois19/round2/SOLVES/enigmath.cpp	/^int enc[MAXD], dec[MAXD];$/;"	v
+encode	ois/ois19/round2/SOLVES/enigmath.cpp	/^int encode(int N) {$/;"	f
+encode	ois/ois19/round2/enigmath/enigmath.cpp	/^int encode(int N) {$/;"	f
+end	ois/ois19/round2/SOLVES/trip.cpp	/^    int end;$/;"	m	struct:edge_t	file:
+end	ois/ois19/round2/trip/trip.cpp	/^    int end; \/\/ next node$/;"	m	struct:edge	file:
+exp	ois/ois20/round2/ois11_round2_solutions/ip.py	/^exp = 0$/;"	v
+extra	ois/ois20/round1/SOLVES/butoaie.py	/^    extra = sum((max(x - c*P, 0) + Q-P-1) \/\/ (Q-P) for x in V) # need of extra sprays$/;"	v
+f	ois/ois19/round1/SOLVES/christmas.cpp	/^int f(int idx, int spent) {$/;"	f
+f	ois/ois19/round1/christmas/christmas.cpp	/^int f(int idx, int spent) {$/;"	f
+f	ois/ois24/round3/username2/usernames2.cpp	/^string f(const unordered_set<string>& U, const string& S) {$/;"	f
+fast_atoi	algobadge/ricorsione/cabala/cabala3.cpp	/^long long fast_atoi( const char * str )$/;"	f
+fibb	ois/ois20/round1/SOLVES/fibonaccibug.py	/^    fibb = [1, 1]$/;"	v
+find	ois/ois20/round1/SOLVES/funnygraph.cpp	/^int find(int x) {$/;"	f
+find	training/dp/words/wordsearch.cpp	/^int find(int r, int c, int k) {$/;"	f
+findClosest	ois/ois24/round1/barbarian/barbarian_final.cpp	/^long long findClosest(long long i, vector<int> D, vector<bool> destroyed) {$/;"	f
+findConstellation	training/grafi/constellation/constellation - Copia.cpp	/^int findConstellation(vector<int> X,vector<int> Y,int N){$/;"	f
+findConstellation	training/grafi/constellation/constellation.cpp	/^int findConstellation(vector<int> X,vector<int> Y,int N){$/;"	f
+findMax	ois/ois24/round3/peaks/peaks.cpp	/^long long findMax(const vector<long long>& arr, long long len) { \/\/ count peaks num in adj cells (only in one direction, rows or columns)$/;"	f
+find_l_shaped_links	training/grafi/constellation/stars.py	/^def find_l_shaped_links(matrix, x, y):$/;"	f
+find_max	ois/ois19/round1/muffin/muffin.cpp	/^int find_max() {$/;"	f
+find_pool	training/dp/waterslide/waterslide.cpp	/^void find_pool(int start, int end, int i) {$/;"	f
+find_pool	training/dp/waterslide/waterslide2.cpp	/^int find_pool(int N, int M, int P, int A[], int B[]) {$/;"	f
+first_ins	ois/ois20/round1/SOLVES/grades.py	/^        first_ins = i$/;"	v
+fr	algobadge/greedy/quadri/grader.cpp	/^static FILE *fr, *fw;$/;"	v	file:
+fr	algobadge/greedy/quadri/quadri_final.cpp	/^static FILE *fr, *fw;$/;"	v	file:
+fr	training/dp/wheel/wheel.cpp	/^FILE *fr, *fw;$/;"	v
+ft	ois/ois20/round3/ois11_round3_solutions.tar(1)/scmax.py	/^ft = [0] * (N+1)$/;"	v
+fw	algobadge/greedy/quadri/grader.cpp	/^static FILE *fr, *fw;$/;"	v	file:
+fw	algobadge/greedy/quadri/quadri_final.cpp	/^static FILE *fr, *fw;$/;"	v	file:
+fw	training/dp/wheel/wheel.cpp	/^FILE *fr, *fw;$/;"	v
+g	dijkstra.py	/^    g = Graph(4)$/;"	v	class:Graph
+g	ois/ois19/round2/chips/chips.cpp	/^int A, C, r, g, b;$/;"	v
+gcd	ois/ois20/round4/ois11_round4_solutions.tar(1)/confetti.cpp	/^long long gcd(long long a, long long b) $/;"	f
+get	ois/ois20/round3/ois11_round3_solutions.tar(1)/scmax.cpp	/^int get(int a, int b, int l, int r, int n) {$/;"	f
+get	ois/ois20/round3/ois11_round3_solutions.tar(1)/scmax.cpp	/^int get(int i) {$/;"	f
+get	ois/ois20/round3/ois11_round3_solutions.tar(1)/scmax.pas	/^function get(i:longint) : longint;$/;"	f
+get	ois/ois20/round3/ois11_round3_solutions.tar(1)/scmax.py	/^def get(i):$/;"	f
+get	ois/ois20/round4/ois11_round4_solutions.tar(1)/forum.cpp	/^int get(int v, int l = 0, int r = D+P-1, int id = 1) {$/;"	f
+get	ois/ois20/round4/ois11_round4_solutions.tar(1)/forum.pas	/^function get(v, l, r, nid : longint) : longint;$/;"	f
+get	ois/ois20/round4/ois11_round4_solutions.tar(1)/forum.py	/^def get(v, l, r, i):$/;"	f
+get_sum	ois/ois20/round3/ois11_round3_solutions.tar(1)/marcel.cpp	/^inline int get_sum(int l1, int c1, int l2, int c2) {$/;"	f
+get_sum	ois/ois20/round3/ois11_round3_solutions.tar(1)/marcel.py	/^def get_sum(l1, c1, l2, c2):$/;"	f
+gioca	algobadge/ricorsione/solitario/solitario.cpp	/^int gioca(int N, int M) {$/;"	f
+gioca	algobadge/ricorsione/solitario/solitario_dp.cpp	/^int gioca(int N, int M) {$/;"	f
+gioca	algobadge/ricorsione/solitario2/solve.cpp	/^int gioca(int x, int y, vector<vector<int>>& tris, int curr, int max_found) {  \/\/ funzione recursiva$/;"	f
+graph	!TEORIA OLINFO/grafi/bfs_weighted.py	/^graph = {$/;"	v
+graph	ois/ois19/round2/SOLVES/grasshopper.cpp	/^std::vector< std::vector<int> > graph;$/;"	v
+graph	training/dp/waterslide/waterslide2.cpp	/^vector<int> graph;$/;"	v
+graph	training/grafi/constellation/constellation.py	/^graph = {}$/;"	v
+graph	training/grafi/constellation/stars2.py	/^graph = {}$/;"	v
+greens	ois/ois19/round2/chips/chips.cpp	/^int greens, blues, reds;$/;"	v
+hacker	ois/ois23/round1/vending machines/vendingmachines.py	/^    hacker = False$/;"	v
+hashes	ois/ois20/round1/SOLVES/sprei.cpp	/^vector <vector <int>> powB, hashes;          \/\/\/ power of B and hashes of POZ, with double hashing$/;"	v
+hashtags	training/others/trending/trending.py	/^hashtags = [input().strip() for _ in range(N)]$/;"	v
+i	algobadge/dp/nonna/solve_rec.cpp	/^int N, K, i;$/;"	v
+i	algobadge/grafi/islands/islands - Copia.cpp	/^int R, C, i, j;$/;"	v
+i	algobadge/grafi/islands/islands.cpp	/^int R, C, i, j;$/;"	v
+i	ois/ois18/kitchen/kitchen.cpp	/^int N, M, i, value = 0;$/;"	v
+i	ois/ois19/round1/SOLVES/exhibitions.cpp	/^int N, M, i, best, opponent, count;$/;"	v
+i	ois/ois19/round1/SOLVES/kitchen.cpp	/^int N, M, i, value = 0;$/;"	v
+i	ois/ois19/round1/SOLVES/poker.cpp	/^    int D, S, E, B, P, i;$/;"	m	struct:tournament	file:
+i	ois/ois19/round1/SOLVES/poker.cpp	/^int N, M, i, d, e;$/;"	v
+i	ois/ois19/round1/christmas/christmas.cpp	/^int N, B, i;$/;"	v
+i	ois/ois19/round1/exhibitions/exhibitions.cpp	/^int N, M, i, opponent, count;$/;"	v
+i	ois/ois19/round1/malls/malls.cpp	/^int N, K, i;$/;"	v
+i	ois/ois19/round1/muffin/muffin.cpp	/^int N, K, i;$/;"	v
+i	ois/ois19/round1/poker/poker.cpp	/^    int D, S, E, B, P, i;$/;"	m	struct:tournament	file:
+i	ois/ois19/round1/poker/poker.cpp	/^int N, M, i;$/;"	v
+i	ois/ois19/round1/restaurants/restaurants.cpp	/^int N, i, j;$/;"	v
+i	ois/ois19/round2/SOLVES/bankrupt.cpp	/^int N, i;$/;"	v
+i	ois/ois19/round2/bankrupt/bankrupt.cpp	/^int N, i;$/;"	v
+i	ois/ois19/round2/carpets/carpets.cpp	/^int i, j, value;$/;"	v
+i	ois/ois19/round2/grasshopper/grasshopper.cpp	/^int N, M, i;$/;"	v
+i	ois/ois19/round4/cats/cats.cpp	/^int Nm, Nf, i;$/;"	v
+i	ois/ois19/round4/shopping/shopping.cpp	/^int N, E, i;$/;"	v
+i	ois/ois20/round2/ois11_round2_solutions/bonus.c	/^long long N, i;$/;"	v
+i	ois/ois20/round2/ois11_round2_solutions/bonus.cpp	/^int N, i;$/;"	v
+i	ois/ois20/round2/ois11_round2_solutions/evacuation.cpp	/^int N, i, c;$/;"	v
+i	ois/ois20/round2/ois11_round2_solutions/machine.cpp	/^int C, D, Y, i;$/;"	v
+i	ois/ois20/round3/ois11_round3_solutions.tar(1)/dessert.cpp	/^int N, R, i, j;$/;"	v
+i	ois/ois20/round3/ois11_round3_solutions.tar(1)/dessert.py	/^    i = stack.pop()$/;"	v
+i	ois/ois20/round3/ois11_round3_solutions.tar(1)/ladder.cpp	/^int N, i;$/;"	v
+i	ois/ois20/round3/ois11_round3_solutions.tar(1)/police.cpp	/^int N, K, i;$/;"	v
+i	ois/ois20/round3/ois11_round3_solutions.tar(1)/scmax.cpp	/^int N, i;$/;"	v
+i	ois/ois20/round4/ois11_round4_solutions.tar(1)/confetti.cpp	/^int N, i;$/;"	v
+i	ois/ois20/round4/ois11_round4_solutions.tar(1)/forum.cpp	/^int D, P, E, i;$/;"	v
+i	ois/ois20/round4/ois11_round4_solutions.tar(1)/gameshow.cpp	/^int N, M, i;$/;"	v
+i	ois/ois20/round4/ois11_round4_solutions.tar(1)/islands.cpp	/^int R, C, i, j;$/;"	v
+i	ois/ois20/round4/ois11_round4_solutions.tar(1)/polygon.cpp	/^int F, i;$/;"	v
+i	ois/ois20/round4/ois11_round4_solutions.tar(1)/raid.cpp	/^int N, P, i;$/;"	v
+i	ois/ois20/round4/ois11_round4_solutions.tar(1)/ropes.cpp	/^int N, i;$/;"	v
+i	ois/ois23/round2/scoazze (1).cpp	/^int N, K, i;$/;"	v
+i	ois/ois24/simulazione/police/police.cpp	/^int N, K, i;$/;"	v
+i	training/dp/trendy trash/trendytrash_final.cpp	/^int i,j,t=0;$/;"	v
+i	training/grafi/picarats/picarats.cpp	/^int N, M, C_0, a, b, c, i;$/;"	v
+i	training/greedy/disks2/disks2.py	/^    i=-1$/;"	v
+i	training/greedy/disks2/disks2.py	/^i=0$/;"	v
+i	training/greedy/halloween/halloween.py	/^i=0$/;"	v
+i	training/greedy/pens/pens_final.cpp	/^int N, i;$/;"	v
+i	training/greedy/swimmingpool/swimmingpool.cpp	/^int N, i;$/;"	v
+i	training/math/bonus/bonus.cpp	/^long long N, i;$/;"	v
+i	training/others/interrogazioni/interrogazioni.cpp	/^int i,j;$/;"	v
+ibest	ois/ois19/round1/SOLVES/restaurants.cpp	/^int ibest, vbest;   \/\/ current best restaurateur with best vote$/;"	v
+id	ois/ois20/round4/ois11_round4_solutions.tar(1)/forum.cpp	/^int T[MAXE], id[MAXE];$/;"	v
+ifchange	ois/ois24/round3/strangeoperation/strangeoperation.cpp	/^bool ifchange(const vector<int>& A, const vector<int>& B) {$/;"	f
+incoming	ois/ois20/round2/ois11_round2_solutions/antennas.cpp	/^set<pair<int,int>> incoming; \/\/ stores pairs (P[i],sending[i])$/;"	v
+info	training/dp/wheel/wheel.cpp	/^void info(int mn, int mx) {$/;"	f
+inizia	algobadge/lib/cestini/cestini_final.cpp	/^void inizia(int N,int M) {\/\/N=num oggetti M=num cestini Q=spostamenti$/;"	f
+input	ois/ois20/round2/ois11_round2_solutions/ransomware.cpp	/^char input[MAXN][MAXL+1];$/;"	v
+interroga	training/others/interrogazioni/interrogazioni.cpp	/^int interroga(int N, int K, int D[]) {$/;"	f
+intersects	ois/ois20/round4/ois11_round4_solutions.tar(1)/polygon.cpp	/^  bool intersects(const segment_t& oth) const {$/;"	f	struct:segment_t
+intersects	ois/ois20/round4/ois11_round4_solutions.tar(1)/polygon.py	/^    def intersects(self, oth):$/;"	m	class:Segment
+is_safe	algobadge/ricorsione/solitario2/solve.cpp	/^bool is_safe(int x, int y, vector<vector<int>>& tris) {  \/\/ si accerta che mettendo una x, non avvenga nessun tris$/;"	f
+j	algobadge/grafi/islands/islands - Copia.cpp	/^int R, C, i, j;$/;"	v
+j	algobadge/grafi/islands/islands.cpp	/^int R, C, i, j;$/;"	v
+j	ois/ois19/round1/restaurants/restaurants.cpp	/^int N, i, j;$/;"	v
+j	ois/ois19/round2/carpets/carpets.cpp	/^int i, j, value;$/;"	v
+j	ois/ois20/round3/ois11_round3_solutions.tar(1)/dessert.cpp	/^int N, R, i, j;$/;"	v
+j	ois/ois20/round4/ois11_round4_solutions.tar(1)/islands.cpp	/^int R, C, i, j;$/;"	v
+j	ois/ois20/round4/ois11_round4_solutions.tar(1)/polygon.py	/^    j = (i+1) % F$/;"	v
+j	ois/ois23/round1/monopoly/monopoly_final.cpp	/^int j,lancio=0;$/;"	v
+j	ois/ois23/round1/panama/panama.dp - Copia.cpp	/^int N, Q,j=0,m=0,k=0;$/;"	v
+j	ois/ois23/round1/panama/panama.dp.cpp	/^int N, Q,j=0,m=0,k=0,sum=0;$/;"	v
+j	training/dp/trendy trash/trendytrash_final.cpp	/^int i,j,t=0;$/;"	v
+j	training/others/interrogazioni/interrogazioni.cpp	/^int i,j;$/;"	v
+k	ois/ois23/round1/panama/panama.dp - Copia.cpp	/^int N, Q,j=0,m=0,k=0;$/;"	v
+k	ois/ois23/round1/panama/panama.dp.cpp	/^int N, Q,j=0,m=0,k=0,sum=0;$/;"	v
+kindle	training/greedy/streetlights/streetlights.cpp	/^int kindle(int N, int M, int K, int L[]) {$/;"	f
+known	ois/ois24/round3/dogtricks/dogtrick.cpp	/^set<pair<int,int>> known; \/\/ A, B$/;"	v
+lancio	ois/ois23/round1/monopoly/monopoly_final.cpp	/^int j,lancio=0;$/;"	v
+last	ois/ois20/round1/SOLVES/smartphone.py	/^        last = v$/;"	v
+last	ois/ois20/round1/SOLVES/smartphone.py	/^last = 0$/;"	v
+lastToDestroy	ois/ois24/round1/barbarian/barbarian_final.cpp	/^bool lastToDestroy(vector<bool> destroyed) {$/;"	f
+last_suf	ois/ois20/round1/SOLVES/grades.py	/^        last_suf = i$/;"	v
+left	ois/ois20/round4/ois11_round4_solutions.tar(1)/forum.cpp	/^vector<int> left, right;$/;"	v
+left	ois/ois20/round4/ois11_round4_solutions.tar(1)/forum.py	/^left = [0] * (D+P)$/;"	v
+left	training/greedy/swimmingpool/swimmingpool.py	/^    left = sum(P[:i])$/;"	v
+ll	ois/ois20/round3/ois11_round3_solutions.tar(1)/fairgame.cpp	/^typedef long long ll;$/;"	t	file:
+m	ois/ois23/round1/panama/panama.dp - Copia.cpp	/^int N, Q,j=0,m=0,k=0;$/;"	v
+m	ois/ois23/round1/panama/panama.dp.cpp	/^int N, Q,j=0,m=0,k=0,sum=0;$/;"	v
+mV	ois/ois20/round1/SOLVES/butoaie.py	/^mV = max(V)$/;"	v
+main	!TEORIA OLINFO/grafi/bfs.cpp	/^int main()$/;"	f
+main	algobadge/dp/mostra/solve_rec.cpp	/^int main() {$/;"	f
+main	algobadge/dp/nonna/solve_rec.cpp	/^int main() {$/;"	f
+main	algobadge/dp/treni/grader.cpp	/^int main()$/;"	f
+main	algobadge/dp/treni/solve.cpp	/^int main()$/;"	f
+main	algobadge/grafi/islands/islands - Copia.cpp	/^int main() {$/;"	f
+main	algobadge/grafi/islands/islands.cpp	/^int main() {$/;"	f
+main	algobadge/grafi/mincammino/camminoGrafo.cpp	/^int main() {$/;"	f
+main	algobadge/grafi/mincammino/grader.cpp	/^int main() {$/;"	f
+main	algobadge/greedy/quadri/grader.cpp	/^int main() {$/;"	f
+main	algobadge/greedy/quadri/quadri_final.cpp	/^int main() {$/;"	f
+main	algobadge/greedy/truffa/truffa.cpp	/^int main() {$/;"	f
+main	algobadge/intro/biglietti.cpp	/^int main() {$/;"	f
+main	algobadge/intro/biglietti/biglietti.cpp	/^int main() {$/;"	f
+main	algobadge/intro/canzoni/canzoni.cpp	/^int main() {$/;"	f
+main	algobadge/lib/catalogo/grader.cpp	/^int main() {$/;"	f
+main	algobadge/lib/cestini/cestini_final.cpp	/^int main() {$/;"	f
+main	algobadge/matematica/caramelle/caramelle.cpp	/^int main(){$/;"	f
+main	algobadge/ricorsione/antivirus/solve.cpp	/^int main() {$/;"	f
+main	algobadge/ricorsione/cabala/cabala.cpp	/^int main() {$/;"	f
+main	algobadge/ricorsione/cabala/cabala2.cpp	/^int main() {$/;"	f
+main	algobadge/ricorsione/cabala/cabala3.cpp	/^int main() {$/;"	f
+main	algobadge/ricorsione/solitario/solitario.cpp	/^int main() {$/;"	f
+main	algobadge/ricorsione/solitario/solitario_dp.cpp	/^int main() {$/;"	f
+main	algobadge/ricorsione/solitario2/solve.cpp	/^int main() {$/;"	f
+main	ois/ois18/kitchen/kitchen.cpp	/^int main() {$/;"	f
+main	ois/ois19/round1/SOLVES/christmas.cpp	/^int main() {$/;"	f
+main	ois/ois19/round1/SOLVES/exhibitions.cpp	/^int main() {$/;"	f
+main	ois/ois19/round1/SOLVES/kitchen.cpp	/^int main() {$/;"	f
+main	ois/ois19/round1/SOLVES/malls.cpp	/^int main() {$/;"	f
+main	ois/ois19/round1/SOLVES/muffin.cpp	/^int main() {$/;"	f
+main	ois/ois19/round1/SOLVES/numpad.cpp	/^int main() {$/;"	f
+main	ois/ois19/round1/SOLVES/poker.cpp	/^int main() {$/;"	f
+main	ois/ois19/round1/SOLVES/restaurants.cpp	/^int main() {$/;"	f
+main	ois/ois19/round1/christmas/christmas.cpp	/^int main() {$/;"	f
+main	ois/ois19/round1/exhibitions/exhibitions.cpp	/^int main() {$/;"	f
+main	ois/ois19/round1/malls/malls.cpp	/^int main() {$/;"	f
+main	ois/ois19/round1/muffin/muffin.cpp	/^int main() {$/;"	f
+main	ois/ois19/round1/numpad/numpad.cpp	/^int main() {$/;"	f
+main	ois/ois19/round1/poker/poker.cpp	/^int main() {$/;"	f
+main	ois/ois19/round1/restaurants/restaurants.cpp	/^int main() {$/;"	f
+main	ois/ois19/round2/SOLVES/bankrupt.cpp	/^int main() {$/;"	f
+main	ois/ois19/round2/SOLVES/carpets.cpp	/^int main() {$/;"	f
+main	ois/ois19/round2/SOLVES/chips.cpp	/^int main() {$/;"	f
+main	ois/ois19/round2/SOLVES/enigmath.cpp	/^int main() {$/;"	f
+main	ois/ois19/round2/SOLVES/grasshopper.cpp	/^int main() {$/;"	f
+main	ois/ois19/round2/SOLVES/trip.cpp	/^int main() {$/;"	f
+main	ois/ois19/round2/SOLVES/typewriter.cpp	/^int main() {$/;"	f
+main	ois/ois19/round2/bankrupt/bankrupt.cpp	/^int main() {$/;"	f
+main	ois/ois19/round2/carpets/carpets.cpp	/^int main() {$/;"	f
+main	ois/ois19/round2/chips/chips.cpp	/^int main() {$/;"	f
+main	ois/ois19/round2/enigmath/enigmath.cpp	/^int main() {$/;"	f
+main	ois/ois19/round2/grasshopper/grasshopper.cpp	/^int main() {$/;"	f
+main	ois/ois19/round2/trip/trip.cpp	/^int main() {$/;"	f
+main	ois/ois19/round3/fairgame/fairgame.cpp	/^int main() {$/;"	f
+main	ois/ois19/round4/cats/cats.cpp	/^int main() {$/;"	f
+main	ois/ois19/round4/shopping/shopping.cpp	/^int main() {$/;"	f
+main	ois/ois20/round1/SOLVES/23.cpp	/^int main()$/;"	f
+main	ois/ois20/round1/SOLVES/funnygraph.cpp	/^int main() {$/;"	f
+main	ois/ois20/round1/SOLVES/sprei.cpp	/^int main()$/;"	f
+main	ois/ois20/round2/ois11_round2_solutions/antennas.cpp	/^int main() {$/;"	f
+main	ois/ois20/round2/ois11_round2_solutions/bonus.c	/^int main() {$/;"	f
+main	ois/ois20/round2/ois11_round2_solutions/bonus.cpp	/^int main() {$/;"	f
+main	ois/ois20/round2/ois11_round2_solutions/evacuation.cpp	/^int main() {$/;"	f
+main	ois/ois20/round2/ois11_round2_solutions/events.cpp	/^int main() {$/;"	f
+main	ois/ois20/round2/ois11_round2_solutions/examroom.cpp	/^int main() {$/;"	f
+main	ois/ois20/round2/ois11_round2_solutions/ip.cpp	/^int main() {$/;"	f
+main	ois/ois20/round2/ois11_round2_solutions/machine.cpp	/^int main() {$/;"	f
+main	ois/ois20/round2/ois11_round2_solutions/ransomware.cpp	/^int main() {$/;"	f
+main	ois/ois20/round3/ois11_round3_solutions.tar(1)/dessert.cpp	/^int main() {$/;"	f
+main	ois/ois20/round3/ois11_round3_solutions.tar(1)/fairgame.cpp	/^int main() {$/;"	f
+main	ois/ois20/round3/ois11_round3_solutions.tar(1)/ladder.cpp	/^int main() {$/;"	f
+main	ois/ois20/round3/ois11_round3_solutions.tar(1)/marcel.cpp	/^int main() {$/;"	f
+main	ois/ois20/round3/ois11_round3_solutions.tar(1)/permutation.cpp	/^int main() {$/;"	f
+main	ois/ois20/round3/ois11_round3_solutions.tar(1)/police.cpp	/^int main() {$/;"	f
+main	ois/ois20/round3/ois11_round3_solutions.tar(1)/pulse.cpp	/^int main()$/;"	f
+main	ois/ois20/round3/ois11_round3_solutions.tar(1)/scmax.cpp	/^int main() {$/;"	f
+main	ois/ois20/round4/ois11_round4_solutions.tar(1)/confetti.cpp	/^int main() {$/;"	f
+main	ois/ois20/round4/ois11_round4_solutions.tar(1)/forum.cpp	/^int main() {$/;"	f
+main	ois/ois20/round4/ois11_round4_solutions.tar(1)/gameshow.cpp	/^int main() {$/;"	f
+main	ois/ois20/round4/ois11_round4_solutions.tar(1)/islands.cpp	/^int main() {$/;"	f
+main	ois/ois20/round4/ois11_round4_solutions.tar(1)/polygon.cpp	/^int main() {$/;"	f
+main	ois/ois20/round4/ois11_round4_solutions.tar(1)/raid.cpp	/^int main() {$/;"	f
+main	ois/ois20/round4/ois11_round4_solutions.tar(1)/ropes.cpp	/^int main() {$/;"	f
+main	ois/ois20/round4/ois11_round4_solutions.tar(1)/time.cpp	/^int main() {$/;"	f
+main	ois/ois23/round1/candies/candies.cpp	/^int main() {$/;"	f
+main	ois/ois23/round1/dream (1).cpp	/^int main()$/;"	f
+main	ois/ois23/round1/dream.cpp	/^int main() {$/;"	f
+main	ois/ois23/round1/dristor2 (finire).cpp	/^int main() {$/;"	f
+main	ois/ois23/round1/monopoly/main.cpp	/^int main() {$/;"	f
+main	ois/ois23/round1/monopoly/monopoly.cpp	/^int main() {$/;"	f
+main	ois/ois23/round1/monopoly/monopoly_final.cpp	/^int main() {$/;"	f
+main	ois/ois23/round1/panama/panama.cpp	/^int main() {$/;"	f
+main	ois/ois23/round1/panama/panama.dp - Copia.cpp	/^int main() {$/;"	f
+main	ois/ois23/round1/panama/panama.dp.cpp	/^int main() {$/;"	f
+main	ois/ois23/round1/sumtree/main.cpp	/^int main() {$/;"	f
+main	ois/ois23/round1/tournament2/tournament2.cpp	/^int main() {$/;"	f
+main	ois/ois23/round1/vending machines/vendingmachines.cpp	/^int main() {$/;"	f
+main	ois/ois23/round2/casino (1).cpp	/^int main() {$/;"	f
+main	ois/ois23/round2/casino.cpp	/^int main() {$/;"	f
+main	ois/ois23/round2/lights.cpp	/^int main() {$/;"	f
+main	ois/ois23/round2/multiplication.cpp	/^int main() {$/;"	f
+main	ois/ois23/round2/scoazze (1).cpp	/^int main() {$/;"	f
+main	ois/ois23/round2/scoazze.cpp	/^int main() {$/;"	f
+main	ois/ois23/round3/animals/animals.cpp	/^int main() {$/;"	f
+main	ois/ois24/round1/areaunderpath/areaunderpath.cpp	/^int main() {$/;"	f
+main	ois/ois24/round1/barbarian/barbarian.cpp	/^int main() {$/;"	f
+main	ois/ois24/round1/barbarian/barbarian_final.cpp	/^int main() {$/;"	f
+main	ois/ois24/round1/binary chess/binarychess.cpp	/^int main() {$/;"	f
+main	ois/ois24/round1/binary chess/binarychess2.cpp	/^int main() {$/;"	f
+main	ois/ois24/round1/brackets/brackets.cpp	/^int main() {$/;"	f
+main	ois/ois24/round1/brackets/brackets_final.cpp	/^int main() {$/;"	f
+main	ois/ois24/round1/excellent/excellent.cpp	/^int main() {$/;"	f
+main	ois/ois24/round1/excellent/excellent_final.cpp	/^int main() {$/;"	f
+main	ois/ois24/round1/long chain/longchain.cpp	/^int main() {$/;"	f
+main	ois/ois24/round1/periodic words/periodicwords.cpp	/^int main() {$/;"	f
+main	ois/ois24/round1/ping pong/pingpong.cpp	/^int main() {$/;"	f
+main	ois/ois24/round1/ping pong/pingpong2__final.cpp	/^int main() {$/;"	f
+main	ois/ois24/round1/ping pong/solve.cpp	/^int main() {$/;"	f
+main	ois/ois24/round1/ping pong/solve2.cpp	/^int main() {$/;"	f
+main	ois/ois24/round2/avg2/avg2.cpp	/^int main() {$/;"	f
+main	ois/ois24/round2/goodintervals/intervals.cpp	/^int main() {$/;"	f
+main	ois/ois24/round2/increasingxor/increasingxor.cpp	/^int main() {$/;"	f
+main	ois/ois24/round2/jewellers/gemgame.cpp	/^int main() {$/;"	f
+main	ois/ois24/round2/pacman/pacman.cpp	/^int main() {$/;"	f
+main	ois/ois24/round2/strimbalance/stringimbalance.cpp	/^int main() {$/;"	f
+main	ois/ois24/round2/swapping/swappingdigits.cpp	/^int main() {$/;"	f
+main	ois/ois24/round2/tulips/tulips_dp.cpp	/^int main() {$/;"	f
+main	ois/ois24/round2/tulips/tulips_segtree.cpp	/^int main() {$/;"	f
+main	ois/ois24/round2/tulips/tulips_sparse.cpp	/^int main() {$/;"	f
+main	ois/ois24/round3/dogtricks/dogtrick.cpp	/^int main() {$/;"	f
+main	ois/ois24/round3/peaks/peaks.cpp	/^int main() {$/;"	f
+main	ois/ois24/round3/rectangle/rectangle.cpp	/^int main() {$/;"	f
+main	ois/ois24/round3/strangeoperation/strangeoperation.cpp	/^int main() {$/;"	f
+main	ois/ois24/round3/username2/usernames2.cpp	/^int main() {$/;"	f
+main	ois/ois24/round4/cars/cars.cpp	/^int main() {$/;"	f
+main	ois/ois24/round4/dogtrick2/dogtrick2.cpp	/^int main() {$/;"	f
+main	ois/ois24/round4/jobs/jobs.cpp	/^int main() {$/;"	f
+main	ois/ois24/round4/jobs/solve.cpp	/^int main() {$/;"	f
+main	ois/ois24/simulazione/police/police.cpp	/^int main() {$/;"	f
+main	ois/ois24/simulazione/typewriter/typewriter.cpp	/^int main() {$/;"	f
+main	training/dp/subset/subset.cpp	/^int main() {$/;"	f
+main	training/dp/trendy trash/grader.cpp	/^int main() {$/;"	f
+main	training/dp/trendy trash/trendytrash_final.cpp	/^int main() {$/;"	f
+main	training/dp/waterslide/waterslide.cpp	/^int main() {$/;"	f
+main	training/dp/waterslide/waterslide2.cpp	/^int main() {$/;"	f
+main	training/dp/wheel/wheel.cpp	/^int main() {$/;"	f
+main	training/dp/words/wordsearch.cpp	/^int main() {$/;"	f
+main	training/grafi/constellation/constellation - Copia.cpp	/^int main() {$/;"	f
+main	training/grafi/constellation/constellation.cpp	/^int main() {$/;"	f
+main	training/grafi/picarats/picarats.cpp	/^int main() {$/;"	f
+main	training/greedy/pens/pens_final.cpp	/^int main() {$/;"	f
+main	training/greedy/streetlights/streetlights.cpp	/^int main() {$/;"	f
+main	training/greedy/swimmingpool/swimmingpool.cpp	/^int main() {$/;"	f
+main	training/math/bonus/bonus.cpp	/^int main() {$/;"	f
+main	training/math/recipe/recipe.cpp	/^int main() {$/;"	f
+main	training/math/scommessa/scommessa.cpp	/^int main() {$/;"	f
+main	training/math/sign/sign.cpp	/^int main() {$/;"	f
+main	training/others/crittografia riflessa/crittografia.cpp	/^int main() {$/;"	f
+main	training/others/flea on the number line/flea.cpp	/^int main() {$/;"	f
+main	training/others/interrogazioni/interrogazioni.cpp	/^int main() {$/;"	f
+main	training/others/sign/sign.cpp	/^int main() {$/;"	f
+maint	ois/ois20/round2/ois11_round2_solutions/machine.py	/^maint = [0 for _ in range(D+1)]$/;"	v
+mangia	algobadge/dp/nonna/solve_rec.cpp	/^int mangia(int n, int k) {$/;"	f
+mat	ois/ois20/round3/ois11_round3_solutions.tar(1)/marcel.cpp	/^int N, X, mat[NMAX][NMAX];$/;"	v
+matched	ois/ois20/round2/ois11_round2_solutions/events.py	/^matched = 0$/;"	v
+matching_idx	ois/ois20/round2/ois11_round2_solutions/ransomware.cpp	/^int matching_idx(char* input) {$/;"	f
+matching_idx	ois/ois20/round2/ois11_round2_solutions/ransomware.py	/^def matching_idx(text, codes):$/;"	f
+maxR	algobadge/ricorsione/cabala/cabala2.cpp	/^long long maxR = -1; \/\/ massimo resto trovato$/;"	v
+maxResto	algobadge/ricorsione/cabala/cabala.cpp	/^int maxResto = -1; \/\/ massimo resto trovato$/;"	v
+max_i	ois/ois19/round2/SOLVES/carpets.cpp	/^int min_i[MAXK], max_i[MAXK], min_j[MAXK], max_j[MAXK];$/;"	v
+max_j	ois/ois19/round2/SOLVES/carpets.cpp	/^int min_i[MAXK], max_i[MAXK], min_j[MAXK], max_j[MAXK];$/;"	v
+maxl	training/greedy/swimmingpool/swimmingpool.py	/^        maxl = left$/;"	v
+maxl	training/greedy/swimmingpool/swimmingpool.py	/^maxl = totsum$/;"	v
+maxr	training/greedy/swimmingpool/swimmingpool.py	/^        maxr = right$/;"	v
+maxr	training/greedy/swimmingpool/swimmingpool.py	/^maxr = totsum$/;"	v
+mcd	training/math/confetti/confetti.py	/^mcd=[]$/;"	v
+memory	ois/ois23/round1/monopoly/monopoly_final.cpp	/^vector<int> sub,memory,values,app;$/;"	v
+minCammini	algobadge/grafi/mincammino/mincammino.cpp	/^void Graph::minCammini(int s){$/;"	f	class:Graph
+minDistance	dijkstra.py	/^    def minDistance(self, dist, sptSet):$/;"	m	class:Graph
+min_i	ois/ois19/round2/SOLVES/carpets.cpp	/^int min_i[MAXK], max_i[MAXK], min_j[MAXK], max_j[MAXK];$/;"	v
+min_j	ois/ois19/round2/SOLVES/carpets.cpp	/^int min_i[MAXK], max_i[MAXK], min_j[MAXK], max_j[MAXK];$/;"	v
+mincammino	algobadge/grafi/mincammino/camminoGrafo.cpp	/^void mincammino(int N, int M, vector<int> X, vector<int> Y, vector<int> P, vector<int> &D) {$/;"	f
+mincammino	algobadge/grafi/mincammino/mincammino.cpp	/^void mincammino(int N, int M, vector<int> X, vector<int> Y, vector<int> P, vector<int> &D) {$/;"	f
+mod	ois/ois20/round1/SOLVES/sprei.cpp	/^const int mod[] = { (int)1e9 + 7, (int)1e9 + 9 };$/;"	v
+mostc	ois/ois20/round4/ois11_round4_solutions.tar(1)/ropes.cpp	/^int mostc[MAXN+1];$/;"	v
+mostc	ois/ois20/round4/ois11_round4_solutions.tar(1)/ropes.py	/^mostc = [0 for _ in range(N+1)]$/;"	v
+n	ois/ois20/round1/SOLVES/sprei.cpp	/^    int n;$/;"	m	struct:Cuplaj	file:
+n	ois/ois20/round2/ois11_round2_solutions/evacuation.py	/^    n = pop()$/;"	v
+next	ois/ois20/round4/ois11_round4_solutions.tar(1)/raid.py	/^    next = []$/;"	v
+next	ois/ois20/round4/ois11_round4_solutions.tar(1)/raid.py	/^next = []$/;"	v
+nodoPesato	ois/ois23/round1/sumtree/main.cpp	/^typedef pair<int, int> nodoPesato;$/;"	t	file:
+now	ois/ois20/round4/ois11_round4_solutions.tar(1)/raid.py	/^    now = next$/;"	v
+now	ois/ois20/round4/ois11_round4_solutions.tar(1)/raid.py	/^now = []$/;"	v
+num	ois/ois19/round1/SOLVES/poker.cpp	/^int val[MAXT], num[MAXT];$/;"	v
+num	ois/ois19/round1/poker/poker.cpp	/^int val[MAXT], num[MAXT]; \/\/ val stores money held, num stores curr t idx$/;"	v
+num_l_shaped_links	training/grafi/constellation/constellation.py	/^num_l_shaped_links = len(visited)$/;"	v
+num_l_shaped_links	training/grafi/constellation/stars2.py	/^num_l_shaped_links = len(visited)$/;"	v
+nxt	ois/ois20/round3/ois11_round3_solutions.tar(1)/pulse.cpp	/^int nxt(int x) {$/;"	f
+occulta	algobadge/ricorsione/cabala/cabala.cpp	/^long long occulta(long long N, int M) {$/;"	f
+occulta	algobadge/ricorsione/cabala/cabala2.cpp	/^long long occulta(long long N, long long M, long long currentNumber, long long currR, long long counter) {$/;"	f
+occulta	algobadge/ricorsione/cabala/cabala3.cpp	/^long long occulta(int N, int M, string n, int res) {$/;"	f
+ok	ois/ois20/round3/ois11_round3_solutions.tar(1)/pulse.cpp	/^bool p[7][13][13], ok[60][502][502], viz[60][502][502];$/;"	v
+ok	ois/ois20/round3/ois11_round3_solutions.tar(1)/pulse.py	/^def ok(x,y,t):$/;"	f
+oldq	ois/ois20/round3/ois11_round3_solutions.tar(1)/pulse.cpp	/^queue <point> q, oldq;$/;"	v
+on	algobadge/ricorsione/solitario/solitario_dp.cpp	/^bool on(int pos, int bitmask_row) {$/;"	f
+open_nodes	ois/ois20/round4/ois11_round4_solutions.tar(1)/forum.py	/^open_nodes = [(0, None)]$/;"	v
+operator <	ois/ois19/round1/SOLVES/poker.cpp	/^    bool operator<(const tournament& o) const {$/;"	f	struct:tournament
+operator <	ois/ois19/round1/poker/poker.cpp	/^    bool operator<(const tournament &o) {$/;"	f	struct:tournament
+operator <<	ois/ois20/round4/ois11_round4_solutions.tar(1)/polygon.cpp	/^ostream& operator<<(ostream& o, const segment_t& s) {$/;"	f
+opponent	ois/ois19/round1/SOLVES/exhibitions.cpp	/^int N, M, i, best, opponent, count;$/;"	v
+opponent	ois/ois19/round1/exhibitions/exhibitions.cpp	/^int N, M, i, opponent, count;$/;"	v
+p	algobadge/grafi/mincammino/camminoGrafo.cpp	/^pair <int,int> p;$/;"	v
+p	ois/ois18/kitchen/kitchen.cpp	/^int T[MAXM], tc[MAXM], p[MAXN]; \/\/ tc = current time, p = stove assigned to dish$/;"	v
+p	ois/ois19/round4/shopping/shopping.cpp	/^int p[MAXN];$/;"	v
+p	ois/ois20/round3/ois11_round3_solutions.tar(1)/pulse.cpp	/^bool p[7][13][13], ok[60][502][502], viz[60][502][502];$/;"	v
+panamaSum	ois/ois23/round1/panama/panama.cpp	/^int panamaSum(int l,int r){$/;"	f
+parent	ois/ois20/round1/SOLVES/funnygraph.cpp	/^int pot[MAXN], rnk[MAXN], parent[MAXN];$/;"	v
+paths	training/dp/waterslide/waterslide.cpp	/^int paths[MAXM];$/;"	v
+pens	training/greedy/pens/pens_final.cpp	/^int pens[MAXN];$/;"	v
+pmax2	ois/ois20/round1/SOLVES/23.cpp	/^	int pmax2, pmax3;$/;"	m	namespace:Solver	file:
+pmax3	ois/ois20/round1/SOLVES/23.cpp	/^	int pmax2, pmax3;$/;"	m	namespace:Solver	file:
+point	ois/ois20/round3/ois11_round3_solutions.tar(1)/pulse.cpp	/^struct point {$/;"	s	file:
+pointInSegment	ois/ois20/round4/ois11_round4_solutions.tar(1)/polygon.cpp	/^  bool pointInSegment(int x, int y, int det) const {$/;"	f	struct:segment_t
+pointInSegment	ois/ois20/round4/ois11_round4_solutions.tar(1)/polygon.py	/^    def pointInSegment(self, x, y):$/;"	m	class:Segment
+pop	ois/ois20/round2/ois11_round2_solutions/evacuation.py	/^def pop():$/;"	f
+pos	ois/ois20/round3/ois11_round3_solutions.tar(1)/police.py	/^    pos = V[pos]$/;"	v
+pos	ois/ois20/round3/ois11_round3_solutions.tar(1)/police.py	/^pos = 1$/;"	v
+pos	training/greedy/swimmingpool/swimmingpool.py	/^        pos = i$/;"	v
+pot	ois/ois20/round1/SOLVES/funnygraph.cpp	/^int pot[MAXN], rnk[MAXN], parent[MAXN];$/;"	v
+powB	ois/ois20/round1/SOLVES/sprei.cpp	/^vector <vector <int>> powB, hashes;          \/\/\/ power of B and hashes of POZ, with double hashing$/;"	v
+pq	ois/ois20/round1/SOLVES/blindpunch.py	/^    pq = []$/;"	v
+precalculateMatches	ois/ois24/round1/ping pong/solve.cpp	/^vector<pair<int, int>> precalculateMatches() {$/;"	f
+precalculateMatches	ois/ois24/round1/ping pong/solve2.cpp	/^void precalculateMatches(int A, int B) {$/;"	f
+pref	ois/ois20/round3/ois11_round3_solutions.tar(1)/marcel.py	/^pref = [[0 for _ in range(N)] for _ in range(N)]$/;"	v
+preprocess	ois/ois24/round2/goodintervals/intervals.cpp	/^vector<vector<int>> preprocess(const vector<int>& A, int N) {$/;"	f
+prices	ois/ois20/round2/ois11_round2_solutions/events.py	/^prices = list(map(int, input().split()))$/;"	v
+prices_idx	ois/ois20/round2/ois11_round2_solutions/events.py	/^prices_idx = 0$/;"	v
+printSolution	dijkstra.py	/^    def printSolution(self, dist):$/;"	m	class:Graph
+probs	ois/ois20/round1/SOLVES/blindpunch.py	/^    probs = list(map(float, input().strip().split()))$/;"	v
+propagate	ois/ois20/round4/ois11_round4_solutions.tar(1)/forum.cpp	/^void propagate(int id) {$/;"	f
+propagate	ois/ois20/round4/ois11_round4_solutions.tar(1)/forum.pas	/^procedure propagate(nid : longint);$/;"	p
+propagate	ois/ois20/round4/ois11_round4_solutions.tar(1)/forum.py	/^def propagate(i):$/;"	f
+pulisci	training/dp/trendy trash/trendytrash.cpp	/^int pulisci(int N, int M, vector<string> S) {$/;"	f
+pulisci	training/dp/trendy trash/trendytrash_final.cpp	/^int pulisci(int N, int M, vector<string> s) {$/;"	f
+push	ois/ois20/round2/ois11_round2_solutions/evacuation.py	/^def push(x):$/;"	f
+q	algobadge/grafi/mincammino/camminoGrafo.cpp	/^priority_queue <pair<int,int>, vector<pair<int,int>>, greater<pair<int,int>>> q;$/;"	v
+q	ois/ois19/round2/trip/trip.cpp	/^priority_queue<pair<int,int>> q;$/;"	v
+q	ois/ois20/round3/ois11_round3_solutions.tar(1)/pulse.cpp	/^queue <point> q, oldq;$/;"	v
+quadri	algobadge/greedy/quadri/quadri.cpp	/^int quadri(int N, long long M, int V[]) {$/;"	f
+quadri	algobadge/greedy/quadri/quadri_final.cpp	/^int quadri(int N, long long M, int V[]) {$/;"	f
+query	ois/ois20/round3/ois11_round3_solutions.tar(1)/permutation.cpp	/^inline int query(int p) {$/;"	f
+queryMin	ois/ois24/round2/tulips/tulips_segtree.cpp	/^int queryMin(vector<int>& tree, int v, int tl, int tr, int l, int r) {$/;"	f
+queue	ois/ois20/round3/ois11_round3_solutions.tar(1)/pulse.py	/^queue = collections.deque([(0,0,0)])$/;"	v
+r	ois/ois19/round2/chips/chips.cpp	/^int A, C, r, g, b;$/;"	v
+r	ois/ois19/round4/shopping/shopping.cpp	/^int r[MAXN]; \/\/ max money at item i$/;"	v
+reconstructGame	ois/ois24/round1/ping pong/solve.cpp	/^void reconstructGame(int A, int B) {$/;"	f
+reds	ois/ois19/round2/chips/chips.cpp	/^int greens, blues, reds;$/;"	v
+res	ois/ois20/round4/ois11_round4_solutions.tar(1)/forum.py	/^        res = get(left[ID[i]], 0, D+P-1, 1)$/;"	v
+res	training/others/flea on the number line/flea.py	/^res = abs(count)$/;"	v
+result	ois/ois20/round1/SOLVES/blindpunch.py	/^    result = 0.0$/;"	v
+result	ois/ois20/round1/SOLVES/blindpunch.py	/^    result = math.floor(result * 10**6) \/ 10**6$/;"	v
+result	ois/ois20/round1/SOLVES/teleport2.py	/^    result = math.floor(result * 10**6) \/ 10**6$/;"	v
+result	ois/ois20/round1/SOLVES/teleport2.py	/^    result = min(distAB, distAC + distBC)$/;"	v
+reverse	ois/ois23/round1/dream (1).cpp	/^int reverse(int num)$/;"	f
+riempi	algobadge/ricorsione/solitario/solitario.cpp	/^int riempi(int row, int col) {$/;"	f
+riempi	algobadge/ricorsione/solitario/solitario_dp.cpp	/^int riempi(int row, int col, int bp, int bm, int bo) {$/;"	f
+right	ois/ois20/round4/ois11_round4_solutions.tar(1)/forum.cpp	/^vector<int> left, right;$/;"	v
+right	ois/ois20/round4/ois11_round4_solutions.tar(1)/forum.py	/^right = [0] * (D+P)$/;"	v
+right	training/greedy/swimmingpool/swimmingpool.py	/^    right = sum(P[i+1:])$/;"	v
+rnk	ois/ois20/round1/SOLVES/funnygraph.cpp	/^int pot[MAXN], rnk[MAXN], parent[MAXN];$/;"	v
+runlength	ois/ois19/round2/SOLVES/typewriter.cpp	/^vector<pair<int, char>> runlength(string s) {$/;"	f
+runlength	ois/ois24/simulazione/typewriter/typewriter.cpp	/^vector<pair<int, char>> runlength(string s) {$/;"	f
+s_part	ois/ois20/round3/ois11_round3_solutions.tar(1)/marcel.cpp	/^int s_part[NMAX][NMAX];$/;"	v
+score	ois/ois19/round2/chips/chips.cpp	/^int score(int A, int C, int n1,int n2,int n3) {$/;"	f
+score	ois/ois19/round4/cats/cats.cpp	/^int score(int idxm, int idxf) {$/;"	f
+search_pos	ois/ois19/round1/malls/malls.cpp	/^int search_pos(int N, int K, int D[]) {$/;"	f
+segment_t	ois/ois20/round4/ois11_round4_solutions.tar(1)/polygon.cpp	/^  segment_t() {}$/;"	f	struct:segment_t
+segment_t	ois/ois20/round4/ois11_round4_solutions.tar(1)/polygon.cpp	/^  segment_t(int x1, int y1, int x2, int y2) : x1(x1), y1(y1), x2(x2), y2(y2) {$/;"	f	struct:segment_t
+segment_t	ois/ois20/round4/ois11_round4_solutions.tar(1)/polygon.cpp	/^struct segment_t {$/;"	s	file:
+segments	ois/ois20/round4/ois11_round4_solutions.tar(1)/polygon.py	/^segments = []$/;"	v
+sending	ois/ois20/round2/ois11_round2_solutions/antennas.cpp	/^int L[MAXN], P[MAXN], S[MAXN], T[MAXN], sending[MAXN];$/;"	v
+setRelationships	training/grafi/constellation/constellation - Copia.cpp	/^void setRelationships(vector<int> X,vector<int> Y,int N){$/;"	f
+setRelationships	training/grafi/constellation/constellation.cpp	/^void setRelationships(vector<int> X,vector<int> Y,int N){$/;"	f
+sfangate	algobadge/greedy/truffa/truffa.cpp	/^int sfangate(int N, int V[]) {$/;"	f
+simulateGame	ois/ois24/round1/ping pong/solve.cpp	/^bool simulateGame(int A, int B, vector<pair<int, int>>& sets) {$/;"	f
+slidingWindows	ois/ois23/round1/panama/panama.cpp	/^int slidingWindows(int l,int r,int k) {$/;"	f
+sol	algobadge/ricorsione/solitario/solitario_dp.cpp	/^int sol[10][6][1 << 6][1 << 6][1 << 6];$/;"	v
+sol	ois/ois20/round3/ois11_round3_solutions.tar(1)/ladder.py	/^    sol = max(sol, diff)$/;"	v
+sol	ois/ois20/round3/ois11_round3_solutions.tar(1)/ladder.py	/^sol = C[0]$/;"	v
+sol	ois/ois20/round3/ois11_round3_solutions.tar(1)/police.py	/^sol = 0$/;"	v
+sol	ois/ois20/round4/ois11_round4_solutions.tar(1)/confetti.py	/^    sol = gcd(sol, c)$/;"	v
+sol	ois/ois20/round4/ois11_round4_solutions.tar(1)/confetti.py	/^sol = C[0]$/;"	v
+sol	ois/ois20/round4/ois11_round4_solutions.tar(1)/polygon.py	/^sol = 0$/;"	v
+sol	ois/ois20/round4/ois11_round4_solutions.tar(1)/ropes.py	/^sol = 0$/;"	v
+solve	algobadge/dp/mostra/solve_rec.cpp	/^int solve(vector<int>& V,  vector<int>& G, int v, int g) {$/;"	f
+solve	algobadge/dp/treni/solve.cpp	/^int solve(const int A[], const int B[], const int &N, const int &day, const bool &taken, vector<vector<int>> &dp){$/;"	f
+solve	algobadge/matematica/caramelle/caramelle.cpp	/^int solve(){$/;"	f
+solve	algobadge/matematica/caramelle/caramelle.py	/^    def solve(t, N, V):$/;"	f
+solve	algobadge/ricorsione/antivirus/solve.cpp	/^void solve(int t) {$/;"	f
+solve	ois/ois19/round3/fairgame/fairgame.cpp	/^int solve() {$/;"	f
+solve	ois/ois19/round4/cats/cats.cpp	/^int solve(int idxm, int idxf) {$/;"	f
+solve	ois/ois20/round3/ois11_round3_solutions.tar(1)/permutation.cpp	/^inline void solve() {$/;"	f
+solve	ois/ois24/round3/dogtricks/dogtrick.cpp	/^int solve(int n, int last, int skipped) {$/;"	f
+solve	ois/ois24/round3/peaks/peaks.cpp	/^long long solve() {$/;"	f
+solve	ois/ois24/round3/strangeoperation/strangeoperation.cpp	/^int solve() {$/;"	f
+solve	ois/ois24/round4/jobs/jobs.cpp	/^long long solve() {$/;"	f
+solve	ois/ois24/round4/jobs/solve.cpp	/^long long solve(int idx, long long time) {$/;"	f
+solve	training/math/sign/sign.cpp	/^char solve(long long a, long long b) {$/;"	f
+solve	training/math/sign/sign.py	/^def solve(a,b):$/;"	f
+solve	training/others/sign/sign.cpp	/^char solve(long long a, long long b) {$/;"	f
+source	ois/ois19/round2/trip/trip.cpp	/^int source, destination;$/;"	v
+sposta	algobadge/lib/cestini/cestini_final.cpp	/^void sposta(int a,int b) {\/\/a= cestino di partenza b=cestino di arrivo$/;"	f
+st	ois/ois20/round4/ois11_round4_solutions.tar(1)/forum.cpp	/^vector<int> st;$/;"	v
+st	ois/ois20/round4/ois11_round4_solutions.tar(1)/forum.py	/^st = [-1] * 4*(D+P)$/;"	v
+stack	ois/ois20/round3/ois11_round3_solutions.tar(1)/dessert.cpp	/^vector<int> adj[MAXN], stack;$/;"	v
+stack	ois/ois20/round3/ois11_round3_solutions.tar(1)/dessert.py	/^stack = [i for i in range(N) if L[i] == 0]$/;"	v
+sub	ois/ois23/round1/monopoly/monopoly_final.cpp	/^vector<int> sub,memory,values,app;$/;"	v
+sum	ois/ois23/round1/panama/panama.dp.cpp	/^int N, Q,j=0,m=0,k=0,sum=0;$/;"	v
+sum	training/greedy/disks2/disks2.py	/^    sum=T$/;"	v
+sum	training/greedy/halloween/halloween.py	/^sum=0$/;"	v
+sumCipher	ois/ois24/round1/excellent/excellent_final.cpp	/^long long sumCipher(vector<int> cipher) {$/;"	f
+sumP	ois/ois20/round2/ois11_round2_solutions/bonus.py	/^sumP = sum(P)$/;"	v
+sumS	ois/ois20/round2/ois11_round2_solutions/bonus.py	/^sumS = sum(S)$/;"	v
+t	ois/ois20/round4/ois11_round4_solutions.tar(1)/forum.cpp	/^int t = 0;$/;"	v
+t	ois/ois20/round4/ois11_round4_solutions.tar(1)/forum.py	/^t = 0$/;"	v
+t	training/dp/trendy trash/trendytrash_final.cpp	/^int i,j,t=0;$/;"	v
+t0	ois/ois19/round2/SOLVES/trip.cpp	/^    int t0;$/;"	m	struct:edge_t	file:
+t0	ois/ois19/round2/trip/trip.cpp	/^    int t0; \/\/ starting time (node weight)$/;"	m	struct:edge	file:
+t1	ois/ois19/round2/SOLVES/trip.cpp	/^    int t1;$/;"	m	struct:edge_t	file:
+t1	ois/ois19/round2/trip/trip.cpp	/^    int t1; \/\/ arrival time (path weight)$/;"	m	struct:edge	file:
+table	algobadge/ricorsione/solitario/solitario.cpp	/^bool table[10][10];$/;"	v
+tc	ois/ois18/kitchen/kitchen.cpp	/^int T[MAXM], tc[MAXM], p[MAXN]; \/\/ tc = current time, p = stove assigned to dish$/;"	v
+tempo_massimo	algobadge/dp/treni/solve.cpp	/^int tempo_massimo(int N, int a[], int b[])$/;"	f
+togli	algobadge/lib/catalogo/catalogo.cpp	/^void togli(long long int id) {$/;"	f
+tot	ois/ois20/round1/SOLVES/smartphone.py	/^tot = 0$/;"	v
+totsum	training/greedy/swimmingpool/swimmingpool.py	/^totsum = sum(P)$/;"	v
+tournament	ois/ois19/round1/SOLVES/poker.cpp	/^struct tournament {$/;"	s	file:
+tournament	ois/ois19/round1/poker/poker.cpp	/^struct tournament {$/;"	s	file:
+tree	ois/ois20/round3/ois11_round3_solutions.tar(1)/scmax.cpp	/^int tree[4*MAXN];$/;"	v
+unite	ois/ois20/round1/SOLVES/funnygraph.cpp	/^bool unite(int x, int y, int z) {$/;"	f
+update	ois/ois20/round3/ois11_round3_solutions.tar(1)/marcel.py	/^def update(l1, c1, l2, c2):$/;"	f
+update	ois/ois20/round3/ois11_round3_solutions.tar(1)/permutation.cpp	/^inline void update(int p) {$/;"	f
+update	ois/ois20/round3/ois11_round3_solutions.tar(1)/scmax.cpp	/^void update(int i, int v) {$/;"	f
+update	ois/ois20/round3/ois11_round3_solutions.tar(1)/scmax.cpp	/^void update(int i, int v, int l, int r, int n) {$/;"	f
+update	ois/ois20/round3/ois11_round3_solutions.tar(1)/scmax.pas	/^procedure update(i: longint; v: longint);$/;"	p
+update	ois/ois20/round3/ois11_round3_solutions.tar(1)/scmax.py	/^def update(i, v):$/;"	f
+update	ois/ois20/round4/ois11_round4_solutions.tar(1)/forum.cpp	/^void update(bool active, int b, int e, int l = 0, int r = D+P-1, int id=1) {$/;"	f
+update	ois/ois20/round4/ois11_round4_solutions.tar(1)/forum.pas	/^procedure update(active, b, e, l, r, nid : longint);$/;"	p
+update	ois/ois20/round4/ois11_round4_solutions.tar(1)/forum.py	/^def update(active, b, e, l, r, i):$/;"	f
+v	ois/ois19/round1/SOLVES/christmas.cpp	/^vector<int> v;$/;"	v
+val	ois/ois19/round1/SOLVES/poker.cpp	/^int val[MAXT], num[MAXT];$/;"	v
+val	ois/ois19/round1/poker/poker.cpp	/^int val[MAXT], num[MAXT]; \/\/ val stores money held, num stores curr t idx$/;"	v
+valid	ois/ois20/round3/ois11_round3_solutions.tar(1)/pulse.py	/^def valid(x,y):$/;"	f
+valid	ois/ois20/round4/ois11_round4_solutions.tar(1)/islands.py	/^def valid(r, c):$/;"	f
+value	ois/ois18/kitchen/kitchen.cpp	/^int N, M, i, value = 0;$/;"	v
+value	ois/ois19/round1/SOLVES/kitchen.cpp	/^int N, M, i, value = 0;$/;"	v
+value	ois/ois19/round2/carpets/carpets.cpp	/^int i, j, value;$/;"	v
+values	ois/ois23/round1/monopoly/monopoly_final.cpp	/^vector<int> sub,memory,values,app;$/;"	v
+vbest	ois/ois19/round1/SOLVES/restaurants.cpp	/^int ibest, vbest;   \/\/ current best restaurateur with best vote$/;"	v
+verticals	ois/ois19/round2/SOLVES/bankrupt.cpp	/^vector<pair<int,int>> verticals; \/\/ vertical segments by X and dY (with sign)$/;"	v
+vis	ois/ois20/round3/ois11_round3_solutions.tar(1)/police.py	/^vis = [False] * (N+1)$/;"	v
+visit	ois/ois20/round4/ois11_round4_solutions.tar(1)/islands.cpp	/^int visit(int x, int y) {$/;"	f
+visited	ois/ois19/round2/SOLVES/grasshopper.cpp	/^std::vector<bool> visited[2];$/;"	v
+visited	ois/ois20/round4/ois11_round4_solutions.tar(1)/islands.cpp	/^bool visited[MAXN][MAXN];$/;"	v
+visited	training/dp/waterslide/waterslide2.cpp	/^vector<bool> visited;$/;"	v
+visited	training/grafi/constellation/constellation.py	/^visited = set()$/;"	v
+visited	training/grafi/constellation/stars2.py	/^visited = set()$/;"	v
+viz	ois/ois20/round1/SOLVES/sprei.cpp	/^    vector <int> cuplat, viz;$/;"	m	struct:Cuplaj	file:
+viz	ois/ois20/round3/ois11_round3_solutions.tar(1)/pulse.cpp	/^bool p[7][13][13], ok[60][502][502], viz[60][502][502];$/;"	v
+vote	ois/ois19/round1/SOLVES/restaurants.cpp	/^int vote, vtot;     \/\/ current vote and partial total of current restaurateur$/;"	v
+vote	ois/ois19/round1/restaurants/restaurants.cpp	/^int vote, best = 0;$/;"	v
+vouchers	ois/ois20/round2/ois11_round2_solutions/events.py	/^vouchers = list(map(int, input().split()))$/;"	v
+vtot	ois/ois19/round1/SOLVES/restaurants.cpp	/^int vote, vtot;     \/\/ current vote and partial total of current restaurateur$/;"	v
+who_has_hash	ois/ois20/round1/SOLVES/sprei.cpp	/^map <vector <int>, int> who_has_hash;        \/\/\/ map that knows for a certain hash how has it$/;"	v
+win	training/dp/wheel/wheel.cpp	/^void win(int N, int W[], int Q, int K[]) {$/;"	f
+x	ois/ois20/round3/ois11_round3_solutions.tar(1)/pulse.cpp	/^    int x, y;$/;"	m	struct:point	file:
+x1	ois/ois20/round4/ois11_round4_solutions.tar(1)/polygon.cpp	/^  int x1, y1;$/;"	m	struct:segment_t	file:
+x2	ois/ois20/round4/ois11_round4_solutions.tar(1)/polygon.cpp	/^  int x2, y2;$/;"	m	struct:segment_t	file:
+y	ois/ois20/round2/ois11_round2_solutions/machine.py	/^y = 1$/;"	v
+y	ois/ois20/round3/ois11_round3_solutions.tar(1)/pulse.cpp	/^    int x, y;$/;"	m	struct:point	file:
+y1	ois/ois20/round4/ois11_round4_solutions.tar(1)/polygon.cpp	/^  int x1, y1;$/;"	m	struct:segment_t	file:
+y2	ois/ois20/round4/ois11_round4_solutions.tar(1)/polygon.cpp	/^  int x2, y2;$/;"	m	struct:segment_t	file:
+zero	ois/ois24/round3/strangeoperation/strangeoperation.cpp	/^bool zero() {$/;"	f
