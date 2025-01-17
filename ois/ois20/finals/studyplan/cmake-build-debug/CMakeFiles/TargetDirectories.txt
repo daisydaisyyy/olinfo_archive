@@ -1,0 +1,3 @@
+/home/giulia/Desktop/olinfo/ois/ois20/finals/studyplan/cmake-build-debug/CMakeFiles/studyplan.dir
+/home/giulia/Desktop/olinfo/ois/ois20/finals/studyplan/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/giulia/Desktop/olinfo/ois/ois20/finals/studyplan/cmake-build-debug/CMakeFiles/rebuild_cache.dir

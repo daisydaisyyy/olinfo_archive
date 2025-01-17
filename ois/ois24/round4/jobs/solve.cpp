@@ -1,55 +1,51 @@
-#include <fstream>
-#include <iostream>
-#include <string>
-#include <vector>
-#include <algorithm>
+// NOTE: it is recommended to use this even if you don't understand the following code.
 
-long long N, M;
+#include <bits/stdc++.h>
 using namespace std;
-vector<pair<long long, long long>> jobs;
-vector<vector<long long>> dp;
-
-long long solve(int idx, long long time) {
-    if (idx == N || time == 0)
-        return 0;
-
-    if (dp[idx][time] != -1)
-        return dp[idx][time];
-
-    long long exclude = solve(idx + 1, time);
-
-    if (jobs[idx].first <= time) {
-        long long include = solve(idx, time - jobs[idx].first) + jobs[idx].second;
-        dp[idx][time] = max(include, exclude);
-    } else {
-        dp[idx][time] = exclude;
-    }
-
-    return dp[idx][time];
-}
-
+typedef  long long ll;
 int main() {
-    ifstream cin("input0.txt");
+    // uncomment the two following lines if you want to read/write from files
+    //ifstream cin("input0.txt");
+    // ofstream cout("output.txt");
 
+    int N, M;
     cin >> N >> M;
-    long long t, p;
 
-    for (long long i = 0; i < N; ++i) {
-        cin >> t;
-        jobs.push_back({t, 0});
-    }
+    vector<int> T(N);
+    for (int i = 0; i < N; ++i)
+        cin >> T[i];
 
-    for (long long i = 0; i < N; ++i) {
-        cin >> p;
-        jobs[i].second = p;
-    }
+    vector<int> P(N);
+    for (int i = 0; i < N; ++i)
+        cin >> P[i];
 
-    dp.assign(N, vector<long long>(M + 1, -1));
+    int K = 0;
 
-    long long maxMoney = solve(0, M);
 
-    cout << maxMoney << endl;
+    // INSERT YOUR CODE HERE
+	int tot_time = accumulate(T.begin(),T.end(),0);
+	vector<ll> best(tot_time + 1,0); 
+	best[0] = 0;
+
+
+	for(int i = 0; i < N; i ++) {
+		for(int j = T[i]; j <= tot_time; j++) { // for every time unit, calc if it's best to repeat the job 
+			best[j] = max(best[j], P[i] + best[j - T[i]]);
+		}
+	}
+	if(M <= tot_time) {
+		cout << best[M] << endl; 
+		return 0; // already computed max time best 
+	}
+
+	long long fitting = -1; 
+	int rem = M - tot_time; // remaining time to compute 
+	for(int i = 0; i  < N; i++) {
+		int cnt = (rem + T[i] - 1) / T[i]; // set remaining time units per T[i]
+		fitting = max(fitting, (ll) cnt * P[i] + best[M - cnt * T[i]]); // find best fitting setup for remaining time
+	}
+
+    cout << fitting << endl;
 
     return 0;
 }
-

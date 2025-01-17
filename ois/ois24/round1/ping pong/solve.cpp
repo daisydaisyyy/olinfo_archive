@@ -1,75 +1,74 @@
-#include <iostream>
-#include <vector>
-#include <fstream>
-#define MAXP 60
+#include <bits/stdc++.h>
+
 using namespace std;
 
+const int MAX_A = 61;
+const int MAX_B = 61;
+const int MAX_ROUNDS = 3;
 
-vector<pair<int, int>> precalculateMatches() {
-    vector<pair<int, int>> matches;
+int dp[MAX_A][MAX_B][MAX_ROUNDS + 1][MAX_ROUNDS + 1];
+vector<pair<int, int>> result;
 
-    for (int i = 11; i <= 60; ++i) {
-        for (int j = 0; j <= min(i - 2, 60); ++j) {
-            if (i - j >= 2 && (j < 11 || j - i < 2)) {
-                matches.emplace_back(i, j);
-            }
-        }
+int T;
+
+bool solve(int pts_a, int pts_b, int rounds_a, int rounds_b) {
+    // Check if we are in an invalid state
+    if (pts_a < 0 || pts_b < 0 || rounds_a > MAX_ROUNDS || rounds_b > MAX_ROUNDS) return false; 
+
+    // If both players have exhausted their rounds
+    if (rounds_a == MAX_ROUNDS && rounds_b == MAX_ROUNDS) {
+        return (pts_a == 0 && pts_b == 0); // Check if points are exactly zero
     }
 
-    return matches;
-}
+    // If we reached a state we've already calculated
+    if (dp[pts_a][pts_b][rounds_a][rounds_b] != -1) return dp[pts_a][pts_b][rounds_a][rounds_b];
 
-bool simulateGame(int A, int B, vector<pair<int, int>>& sets) {
-    vector<pair<int, int>> matches = precalculateMatches();
-
-    for (const auto& match : matches) {
-        int remainingA = A;
-        int remainingB = B;
-        sets.clear();
-
-        while (remainingA > 0 || remainingB > 0) {
-            if (remainingA >= match.first && remainingB >= match.second) {
-                sets.emplace_back(match.first, match.second);
-                remainingA -= match.first;
-                remainingB -= match.second;
-            } else {
-                break;
-            }
-        }
-
-        if (remainingA == 0 && remainingB == 0) {
+    // Try for player A winning
+    for (int x = 0; x <= 10; ++x) {
+        if (solve(pts_a - 11, pts_b - x, rounds_a + 1, rounds_b)) {
+            result.push_back({11, x}); 
+            dp[pts_a][pts_b][rounds_a][rounds_b] = 1; // Found a valid state
             return true;
         }
     }
 
+    // Try for player B winning
+    for (int x = 0; x <= 10; ++x) {
+        if (solve(pts_a - x, pts_b - 11, rounds_a, rounds_b + 1)) {
+            result.push_back({x, 11}); 
+            dp[pts_a][pts_b][rounds_a][rounds_b] = 1; // Found a valid state
+            return true;
+        }
+    }
+
+    // Mark as impossible
+    dp[pts_a][pts_b][rounds_a][rounds_b] = 0; 
     return false;
 }
 
-void reconstructGame(int A, int B) {
-    vector<pair<int, int>> sets;
-
-    if (simulateGame(A, B, sets)) {
-        for (const auto& set : sets) {
-            cout << set.first << " " << set.second << endl;
-        }
-    } else if (simulateGame(B, A, sets)) {
-        for (const auto& set : sets) {
-            cout << set.second << " " << set.first << endl;
-        }
-    } else {
-        cout << "-1 -1" << endl;
-    }
-}
 int main() {
-    int T;
+    // Uncomment the two following lines if you want to read/write from files
     ifstream cin("input0.txt");
-    cin >> T;
+    // ofstream cout("output.txt");
 
-    for (int i = 0; i < T; ++i) {
+    cin >> T;
+    for (int test = 1; test <= T; ++test) {
         int A, B;
         cin >> A >> B;
-        reconstructGame(A, B);
+
+        memset(dp, -1, sizeof dp); // Set to -1 to indicate uncalculated states
+        result.clear();
+
+        // Start solving from the initial points and rounds
+        if (solve(A, B, 0, 0)) {
+            for (auto &r : result) {
+                cout << r.first << " " << r.second << endl;
+            }
+        } else {
+            cout << "-1 -1" << endl; // Output if no solution is found
+        }
     }
 
     return 0;
 }
+

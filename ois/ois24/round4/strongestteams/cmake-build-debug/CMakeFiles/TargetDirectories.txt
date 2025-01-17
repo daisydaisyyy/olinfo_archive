@@ -1,0 +1,3 @@
+/home/giulia/Desktop/olinfo/ois/ois24/round4/strongestteams/cmake-build-debug/CMakeFiles/strongestteams.dir
+/home/giulia/Desktop/olinfo/ois/ois24/round4/strongestteams/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/giulia/Desktop/olinfo/ois/ois24/round4/strongestteams/cmake-build-debug/CMakeFiles/rebuild_cache.dir

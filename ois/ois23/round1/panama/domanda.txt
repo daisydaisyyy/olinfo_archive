@@ -1,1 +1,0 @@
-in c++ find the maximum sum of all subarrays in an array knowing that in the subarrays the elements in the even positions are positive and the elements in the odd positions are negative.i want to use the sliding windows algorithm
